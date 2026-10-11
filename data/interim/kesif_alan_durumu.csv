@@ -1,0 +1,107 @@
+aktor_id,kurum,alan_adi,ana_sayfa_durumu,robots,sitemap_dosya,sitemap_url,gezilen_sayfa,aday_sayisi,kesilen_aday,notlar,zaman_utc
+A042,ZDF,zdf.de,zdf.de: tamam,zdf.de: robots.txt okundu,25,58264,40,4,0,zdf.de: site haritası üst sınırı; 5 dosya okunmadı,2026-10-09T15:11:27Z
+M09,Swiss Press Council (Schweizer Presserat),presserat.ch,presserat.ch: tamam,presserat.ch: robots.txt okundu,25,588,40,16,0,presserat.ch: site haritası üst sınırı; 268 dosya okunmadı,2026-10-09T15:11:32Z
+K07,BBC,bbc.co.uk,bbc.co.uk: tamam,bbc.co.uk: robots.txt okundu,25,100000,40,1,0,bbc.co.uk: site haritası üst sınırı; 60 dosya okunmadı,2026-10-09T15:12:00Z
+K04,Anadolu Ajansı (AA),aa.com.tr,aa.com.tr: tamam,aa.com.tr: robots.txt okundu,25,10147,40,4,0,aa.com.tr: site haritası üst sınırı; 63 dosya okunmadı,2026-10-09T15:16:21Z
+K01,Associated Press (AP),ap.org,ap.org: engellendi,ap.org: robots.txt okundu,0,0,0,1,0,ap.org: engellendi (HTTP 403); site haritası ve gezinme yapılmadı,2026-10-09T15:32:57Z
+K06,ANP,anp.nl,anp.nl: tamam,anp.nl: robots.txt okundu,1,482,40,0,0,,2026-10-09T15:36:04Z
+K16,Mediahuis,mediahuis.com,mediahuis.com: engellendi,mediahuis.com: robots.txt 403 döndürdü,0,0,0,0,0,mediahuis.com: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T15:36:04Z
+K11,Al Jazeera,institute.aljazeera.net,institute.aljazeera.net: tamam,institute.aljazeera.net: robots.txt okundu,0,0,40,1,0,,2026-10-09T15:36:17Z
+K12,The Guardian,theguardian.com,theguardian.com: tamam,theguardian.com: robots.txt okundu,2,528,40,2,0,,2026-10-09T15:36:38Z
+K13,The New York Times,nytco.com,nytco.com: tamam,nytco.com: robots.txt okundu,1,3932,40,1,0,,2026-10-09T15:37:32Z
+K20,Groupe Les Echos-Le Parisien,leparisien.fr; lesechos.fr,leparisien.fr: engellendi; lesechos.fr: engellendi,leparisien.fr: robots.txt okundu; lesechos.fr: robots.txt okundu,0,0,0,0,0,leparisien.fr: engellendi (HTTP 403); site haritası ve gezinme yapılmadı | lesechos.fr: engellendi (HTTP 403); site haritası ve gezinme yapılmadı,2026-10-09T15:37:42Z
+K21,Estadão (Grupo Estado),estadao.com.br,estadao.com.br: engellendi,estadao.com.br: robots.txt 403 döndürdü,0,0,0,0,0,estadao.com.br: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T15:37:43Z
+K22,Nation Media Group (NMG),nation.africa,nation.africa: engellendi,nation.africa: robots.txt 403 döndürdü,0,0,0,2,0,nation.africa: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T15:37:43Z
+K03,Reuters / Thomson Reuters,thomsonreuters.com; reutersagency.com,thomsonreuters.com: tamam; reutersagency.com: tamam,thomsonreuters.com: robots.txt okundu; reutersagency.com: robots.txt okundu,25,54550,41,16,0,,2026-10-09T15:38:01Z
+K14,The Globe and Mail,theglobeandmail.com,theglobeandmail.com: tamam,theglobeandmail.com: robots.txt okundu,15,1119,40,40,0,,2026-10-09T15:38:59Z
+K15,USA Today / Gannett,usatoday.com,usatoday.com: tamam,usatoday.com: robots.txt okundu,25,100000,40,8,0,usatoday.com: site haritası üst sınırı; 321 dosya okunmadı,2026-10-09T15:39:23Z
+K05,dpa (Deutsche Presse-Agentur),dpa.com,dpa.com: tamam,dpa.com: robots.txt okundu,1,163,40,4,0,,2026-10-09T15:39:35Z
+K17,Aftonbladet,aftonbladet.se,aftonbladet.se: tamam,aftonbladet.se: robots.txt okundu,25,14110,40,1,0,aftonbladet.se: site haritası üst sınırı; 330 dosya okunmadı,2026-10-09T15:41:16Z
+K18,Verdens Gang (VG),vg.no,vg.no: tamam,vg.no: robots.txt okundu,25,12259,40,1,0,vg.no: site haritası üst sınırı; 658 dosya okunmadı,2026-10-09T15:41:18Z
+K23,Mwananchi Communications (MCL),thecitizen.co.tz,thecitizen.co.tz: tamam,thecitizen.co.tz: robots.txt okundu,1,40,40,1,0,,2026-10-09T15:41:18Z
+K29,Todo Jujuy,todojujuy.com,todojujuy.com: engellendi,todojujuy.com: robots.txt okundu,0,0,0,1,0,tohum adresi engellendi: HTTP 403 | todojujuy.com: engellendi (HTTP 403); site haritası ve gezinme yapılmadı,2026-10-09T15:41:29Z
+K27,Núcleo Jornalismo,nucleo.jor.br,nucleo.jor.br: tamam,nucleo.jor.br: robots.txt okundu,5,5985,40,8,0,,2026-10-09T15:43:26Z
+K24,Wired,wired.com,wired.com: tamam,wired.com: robots.txt okundu,25,14029,40,12,0,wired.com: site haritası üst sınırı; 42 dosya okunmadı,2026-10-09T15:43:32Z
+K25,Business Insider,businessinsider.com,businessinsider.com: tamam,businessinsider.com: robots.txt okundu,25,41310,40,60,40,businessinsider.com: site haritası üst sınırı; 311 dosya okunmadı,2026-10-09T15:44:35Z
+K26,Heidi.news,heidi.news,heidi.news: tamam,heidi.news: robots.txt okundu,25,6668,40,3,0,heidi.news: site haritası üst sınırı; 69 dosya okunmadı,2026-10-09T15:44:49Z
+M02,International Federation of Journalists (IFJ),ifj.org,ifj.org: tamam,ifj.org: robots.txt okundu,15,12380,40,21,0,,2026-10-09T15:46:25Z
+K28,Hong Kong Free Press (HKFP),hongkongfp.com,hongkongfp.com: tamam,hongkongfp.com: robots.txt okundu,25,42577,40,9,0,hongkongfp.com: site haritası üst sınırı; 5 dosya okunmadı,2026-10-09T15:46:48Z
+M01,Reporters Sans Frontières (RSF) – Paris Şartı,rsf.org,rsf.org: tamam,rsf.org: robots.txt okundu,25,48000,40,27,0,rsf.org: site haritası üst sınırı; 3 dosya okunmadı,2026-10-09T15:46:49Z
+M11,Türkiye Gazeteciler Cemiyeti (TGC),tgc.org.tr,tgc.org.tr: engellendi,tgc.org.tr: robots.txt 403 döndürdü,0,0,0,1,0,tohum adresi engellendi: robots.txt izin vermiyor | tgc.org.tr: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T15:46:49Z
+K19,Atresmedia,atresmediacorporacion.com,atresmediacorporacion.com: tamam,atresmediacorporacion.com: robots.txt okundu,0,0,40,0,0,,2026-10-09T15:46:58Z
+M04,AJP (Association des journalistes professionnels),ajp.be,ajp.be: tamam,ajp.be: robots.txt okundu,7,2928,40,3,0,,2026-10-09T15:47:29Z
+M05,impressum – Les journalistes suisses,impressum.ch,impressum.ch: tamam,impressum.ch: robots.txt okundu,0,0,40,0,0,,2026-10-09T15:47:32Z
+M15,Press Council of Serbia,savetzastampu.rs,savetzastampu.rs: engellendi,savetzastampu.rs: robots.txt 403 döndürdü,0,0,0,1,0,tohum adresi engellendi: robots.txt izin vermiyor | savetzastampu.rs: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T15:47:32Z
+M06,Raad voor de Journalistiek (Flandre),rvdj.be,rvdj.be: tamam,rvdj.be: robots.txt okundu,0,0,40,3,0,,2026-10-09T15:48:10Z
+M18,Society of Professional Journalists (SPJ),spj.org,spj.org: engellendi,spj.org: robots.txt 403 döndürdü,0,0,0,1,0,tohum adresi engellendi: robots.txt izin vermiyor | spj.org: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T15:48:10Z
+M07,CDJM (Fransa),cdjm.org,cdjm.org: tamam,cdjm.org: robots.txt okundu,5,510,40,3,0,,2026-10-09T15:48:35Z
+M12,Türkiye Basın Konseyi,basinkonseyi.org.tr,basinkonseyi.org.tr: tamam,basinkonseyi.org.tr: robots.txt okundu,6,721,40,10,0,,2026-10-09T15:50:41Z
+M10,Press Council of South Africa,presscouncilsa.org.za,presscouncilsa.org.za: tamam,presscouncilsa.org.za: robots.txt okundu,8,2219,40,8,0,,2026-10-09T15:50:53Z
+M16,Albanian Media Council / Albanian Media Institute,institutemedia.org,institutemedia.org: tamam,institutemedia.org: robots.txt okundu,4,443,40,8,0,arama sonucu aday koşulunu sağlamadı: https://institutemedia.org/udhezimet-per-perdorimin-etik-te-inteligjences-artificiale-ne-median-shqiptare/,2026-10-09T15:51:14Z
+Y02,Finlandiya JSN,jsn.fi,jsn.fi: tamam,jsn.fi: robots.txt okundu,0,0,40,10,0,,2026-10-09T15:52:00Z
+M14,Ethical Journalism Network (EJN),ethicaljournalismnetwork.org,ethicaljournalismnetwork.org: tamam,ethicaljournalismnetwork.org: robots.txt okundu,6,1986,40,12,0,,2026-10-09T15:52:32Z
+Y03,Bosna-Hersek Basın Konseyi,vzs.ba,vzs.ba: tamam,vzs.ba: robots.txt okundu,10,3882,40,11,0,,2026-10-09T15:53:59Z
+A002,T-Online,t-online.de,t-online.de: tamam,t-online.de: robots.txt okundu,0,0,40,1,0,,2026-10-09T15:54:04Z
+A003,Web.de / GMX / 1&1,web.de,web.de: tamam,web.de: robots.txt okundu,0,0,40,0,0,,2026-10-09T15:54:44Z
+A009,Ippen,,,,0,0,0,0,0,alan adı yok; yalnızca tohum ve arama katmanı uygulandı,2026-10-09T15:54:44Z
+A004,Frankfurter Allgemeine Zeitung (FAZ),faz.net,faz.net: tamam,faz.net: robots.txt okundu,0,0,40,0,0,,2026-10-09T15:54:48Z
+A011,De Volkskrant,volkskrant.nl,volkskrant.nl: engellendi,volkskrant.nl: robots.txt okundu,0,0,0,0,0,volkskrant.nl: engellendi (yönlendirilen adres robots.txt ile yasak); site haritası ve gezinme yapılmadı,2026-10-09T15:54:53Z
+M08,Pressenævnet (Danimarka Basın Konseyi),pressenaevnet.dk,pressenaevnet.dk: tamam,pressenaevnet.dk: robots.txt okundu,10,4873,40,1,0,,2026-10-09T15:54:56Z
+A012,DPG Media,dpgmediagroup.com,dpgmediagroup.com: engellendi,dpgmediagroup.com: robots.txt okundu,0,0,0,0,0,dpgmediagroup.com: engellendi (yönlendirilen adres robots.txt ile yasak); site haritası ve gezinme yapılmadı,2026-10-09T15:54:59Z
+A006,Süddeutsche Zeitung,sueddeutsche.de,sueddeutsche.de: tamam,sueddeutsche.de: robots.txt okundu,1,0,40,1,0,,2026-10-09T15:56:03Z
+A001,Bayerischer Rundfunk (BR),br.de,br.de: tamam,br.de: robots.txt okundu,25,31534,40,3,0,br.de: site haritası üst sınırı; 4 dosya okunmadı,2026-10-09T15:56:14Z
+A005,Rheinische Post,rp-online.de,rp-online.de: tamam,rp-online.de: robots.txt okundu,25,100000,40,1,0,rp-online.de: site haritası üst sınırı; 155 dosya okunmadı,2026-10-09T15:57:26Z
+A010,The Quint,thequint.com,thequint.com: tamam,thequint.com: robots.txt okundu,3,36,40,0,0,,2026-10-09T15:58:19Z
+A008,Der Spiegel,spiegel.de,spiegel.de: tamam,spiegel.de: robots.txt okundu,25,295,40,11,0,spiegel.de: site haritası üst sınırı; 24098 dosya okunmadı,2026-10-09T15:59:29Z
+A007,Handelsblatt,handelsblatt.com,handelsblatt.com: tamam,handelsblatt.com: robots.txt okundu,25,8369,40,2,0,handelsblatt.com: site haritası üst sınırı; 175 dosya okunmadı,2026-10-09T15:59:31Z
+A013,NPO,npo.nl,npo.nl: tamam,npo.nl: robots.txt okundu,25,7990,40,4,0,npo.nl: site haritası üst sınırı; 12 dosya okunmadı,2026-10-09T16:00:17Z
+A018,Sveriges Television (SVT),svt.se,svt.se: tamam,svt.se: robots.txt okundu,3,517,40,0,0,,2026-10-09T16:00:52Z
+A017,NRK,nrk.no,nrk.no: tamam,nrk.no: robots.txt okundu,25,79487,40,1,0,nrk.no: site haritası üst sınırı; 476 dosya okunmadı,2026-10-09T16:01:37Z
+A014,TV 2 (Norveç),tv2.no,tv2.no: tamam,tv2.no: robots.txt okundu,25,66102,40,2,0,tv2.no: site haritası üst sınırı; 495 dosya okunmadı,2026-10-09T16:02:51Z
+A022,Bonnier,bonniernews.se,bonniernews.se: tamam,bonniernews.se: robots.txt okundu,1,456,40,0,0,,2026-10-09T16:03:33Z
+A019,Svenska Dagbladet,svd.se,svd.se: tamam,svd.se: robots.txt okundu,25,16109,40,0,0,svd.se: site haritası üst sınırı; 367 dosya okunmadı,2026-10-09T16:03:45Z
+A028,Financial Times,ft.com,ft.com: engellendi,ft.com: robots.txt okundu,0,0,0,0,0,ft.com: engellendi (HTTP 403); site haritası ve gezinme yapılmadı,2026-10-09T16:04:00Z
+A016,Schibsted,schibsted.com,schibsted.com: tamam,schibsted.com: robots.txt okundu,14,1511,40,1,0,,2026-10-09T16:04:02Z
+A029,The Atlantic,theatlantic.com,theatlantic.com: engellendi,theatlantic.com: robots.txt okundu,0,0,0,0,0,theatlantic.com: engellendi (HTTP 403); site haritası ve gezinme yapılmadı,2026-10-09T16:04:06Z
+A023,TT Nyhetsbyrån,tt.se,tt.se: tamam,tt.se: robots.txt okundu,0,0,40,0,0,,2026-10-09T16:04:08Z
+A020,Dagens Nyheter,dn.se,dn.se: tamam,dn.se: robots.txt okundu,25,100000,40,6,0,dn.se: site haritası üst sınırı; 400 dosya okunmadı,2026-10-09T16:04:34Z
+A024,Tamedia,tamedia.ch,tamedia.ch: tamam,tamedia.ch: robots.txt yok,0,0,40,0,0,,2026-10-09T16:04:38Z
+A025,Ringier,ringier.com,ringier.com: tamam,ringier.com: robots.txt okundu,12,3486,40,3,0,arama sonucu aday koşulunu sağlamadı: https://ringier.com/?p=16078,2026-10-09T16:07:12Z
+A030,Radio Television Digital News Association (RTDNA),rtdna.org,rtdna.org: tamam,rtdna.org: robots.txt okundu,1,904,40,2,0,,2026-10-09T16:07:29Z
+A031,RTBF,rtbf.be,rtbf.be: tamam,rtbf.be: robots.txt okundu,6,8578,40,1,0,,2026-10-09T16:07:48Z
+A034,Yle,yle.fi,yle.fi: tamam,yle.fi: robots.txt okundu,0,0,40,0,0,arama sonucu aday koşulunu sağlamadı: https://yle.fi/aihe/about-yle/operating-principles,2026-10-09T16:07:54Z
+A033,Suomen Tietotoimisto (STT),stt.fi,stt.fi: tamam,stt.fi: robots.txt okundu,9,1553,40,0,0,,2026-10-09T16:08:34Z
+A026,SRF (Schweizer Radio und Fernsehen),srf.ch,srf.ch: tamam,srf.ch: robots.txt okundu,25,2490,40,0,0,srf.ch: site haritası üst sınırı; 197 dosya okunmadı,2026-10-09T16:08:55Z
+A032,Helsingin Sanomat,hs.fi,hs.fi: tamam,hs.fi: robots.txt okundu,25,1589,40,0,0,hs.fi: site haritası üst sınırı; 13207 dosya okunmadı,2026-10-09T16:09:34Z
+A021,Journalisten (İsveç),journalisten.se,journalisten.se: tamam,journalisten.se: robots.txt okundu,25,22784,40,8,0,journalisten.se: site haritası üst sınırı; 23 dosya okunmadı,2026-10-09T16:10:02Z
+A035,Czech News Agency (ČTK),ctk.cz,ctk.cz: tamam,ctk.cz: robots.txt okundu,0,0,40,0,0,,2026-10-09T16:10:24Z
+A036,APA (Austria Presse Agentur),apa.at,apa.at: tamam,apa.at: robots.txt okundu,4,33,40,1,0,,2026-10-09T16:11:10Z
+A045,PBS,pbs.org,pbs.org: engellendi,pbs.org: robots.txt 403 döndürdü,0,0,0,1,0,pbs.org: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:11:10Z
+A039,Agência Tatu,agenciatatu.com.br,agenciatatu.com.br: tamam,agenciatatu.com.br: robots.txt okundu,8,874,40,2,0,,2026-10-09T16:12:35Z
+A041,Stuff,stuff.co.nz,stuff.co.nz: tamam,stuff.co.nz: robots.txt okundu,25,11752,10,0,0,stuff.co.nz: site haritası üst sınırı; 4257 dosya okunmadı,2026-10-09T16:12:36Z
+A048,States Newsroom,newjerseymonitor.com,newjerseymonitor.com: engellendi,newjerseymonitor.com: robots.txt okundu,0,0,0,1,0,newjerseymonitor.com: engellendi (HTTP 403); site haritası ve gezinme yapılmadı,2026-10-09T16:12:41Z
+A037,Deutsche Welle (DW),dw.com,dw.com: tamam,dw.com: robots.txt okundu,25,16376,40,4,0,dw.com: site haritası üst sınırı; 193 dosya okunmadı,2026-10-09T16:13:14Z
+A050,Kıbrıs Medya Etik Komitesi (CMEC),,,,0,0,0,0,0,alan adı yok; yalnızca tohum ve arama katmanı uygulandı,2026-10-09T16:13:14Z
+A038,CNET,cnet.com,cnet.com: tamam,cnet.com: robots.txt okundu,25,26647,40,33,0,cnet.com: site haritası üst sınırı; 323 dosya okunmadı,2026-10-09T16:13:20Z
+A046,Folha de S.Paulo,folha.uol.com.br,folha.uol.com.br: tamam,folha.uol.com.br: robots.txt okundu,4,1113,40,10,0,,2026-10-09T16:14:29Z
+A040,Rappler,rappler.com,rappler.com: tamam,rappler.com: robots.txt okundu,25,24001,40,2,0,rappler.com: site haritası üst sınırı; 394 dosya okunmadı,2026-10-09T16:15:02Z
+A054,Impress (İngiltere),impressorg.com,impressorg.com: engellendi,impressorg.com: robots.txt 403 döndürdü,0,0,0,1,0,impressorg.com: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:15:03Z
+A043,RTÉ,rte.ie,rte.ie: tamam,rte.ie: robots.txt okundu,25,100000,40,14,0,rte.ie: site haritası üst sınırı; 101 dosya okunmadı,2026-10-09T16:15:28Z
+A049,Kosova Basın Konseyi (Press Council of Kosovo),presscouncil-ks.org,presscouncil-ks.org: tamam,presscouncil-ks.org: robots.txt yok,0,0,40,1,0,,2026-10-09T16:16:08Z
+A052,Svenska Journalistförbundet (SJF),sjf.se,sjf.se: tamam,sjf.se: robots.txt okundu,1,2402,40,4,0,,2026-10-09T16:16:47Z
+A051,Dewan Pers (Endonezya Basın Konseyi),dewanpers.or.id,dewanpers.or.id: tamam,dewanpers.or.id: robots.txt okundu,0,0,40,0,0,,2026-10-09T16:17:02Z
+A044,ABC (Australian Broadcasting Corporation),abc.net.au,abc.net.au: tamam,abc.net.au: robots.txt okundu,25,19362,40,5,0,abc.net.au: site haritası üst sınırı; 75 dosya okunmadı,2026-10-09T16:17:07Z
+A047,Maldives Independent,maldivesindependent.com,maldivesindependent.com: tamam,maldivesindependent.com: robots.txt okundu,25,21767,40,1,0,maldivesindependent.com: site haritası üst sınırı; 168 dosya okunmadı,2026-10-09T16:18:01Z
+A053,POESY (Panhelenik Gazeteci Sendikaları Federasyonu),poesy.gr,poesy.gr: tamam,poesy.gr: robots.txt okundu,9,1239,40,2,0,,2026-10-09T16:18:34Z
+A056,International Center for Journalists (ICFJ),icfj.org,icfj.org: tamam,icfj.org: robots.txt okundu,3,3028,40,2,0,,2026-10-09T16:19:03Z
+A055,Raad voor de Journalistiek (Hollanda),rvdj.nl,rvdj.nl: tamam,rvdj.nl: robots.txt okundu,9,2686,40,10,0,arama sonucu aday koşulunu sağlamadı: https://www.rvdj.nl/weblog/wat-de-chatbot-ook-zegt-de-journalist-blijft-verantwoordelijk,2026-10-09T16:19:09Z
+K02,Agence France-Presse (AFP),afp.com,afp.com: engellendi,afp.com: robots.txt alınamadı,0,0,0,0,0,afp.com: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:40:45Z
+M17,Media Council for Self-Regulation (Karadağ),medijskisavjet.me,medijskisavjet.me: engellendi,medijskisavjet.me: robots.txt alınamadı,0,0,0,0,0,medijskisavjet.me: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:40:45Z
+A027,ITN,itn.co.uk,itn.co.uk: engellendi,itn.co.uk: robots.txt alınamadı,0,0,0,0,0,itn.co.uk: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:40:56Z
+A015,Dagens Næringsliv,dn.no,dn.no: hata,dn.no: robots.txt okundu,0,0,0,0,0,dn.no: ana sayfa alınamadı (TooManyRedirects: Exceeded 30 redirects.),2026-10-09T16:41:01Z
+M03,DJV (Deutscher Journalisten-Verband),djv.de,djv.de: hata,djv.de: robots.txt okundu,0,0,0,1,0,tohum adresi hata: yeniden denemeler tükendi: HTTP 500 | djv.de: ana sayfa alınamadı (yeniden denemeler tükendi: HTTP 500),2026-10-09T16:41:21Z
+K08,CBC/Radio-Canada,cbc.ca,cbc.ca: engellendi,cbc.ca: robots.txt alınamadı,0,0,0,1,0,tohum adresi engellendi: robots.txt izin vermiyor | cbc.ca: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:41:48Z
+K10,RTVE,rtveia.es,rtveia.es: engellendi,rtveia.es: robots.txt alınamadı,0,0,0,0,0,rtveia.es: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:42:11Z
+Y01,Deutscher Presserat,presserat.de,presserat.de: engellendi,presserat.de: robots.txt alınamadı,0,0,0,0,0,presserat.de: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:42:11Z
+K09,NPR,npr.org,npr.org: engellendi,npr.org: robots.txt alınamadı,0,0,0,1,0,tohum adresi engellendi: robots.txt izin vermiyor | npr.org: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:42:12Z
+M13,GDA ve Türkiye basın/medya konseyleri – Ohri Bildirgesi,medijskisavjet.me; seecheck.org,medijskisavjet.me: engellendi; seecheck.org: tamam,medijskisavjet.me: robots.txt alınamadı; seecheck.org: robots.txt yok,0,0,40,0,0,medijskisavjet.me: engellendi (robots.txt izin vermiyor); site haritası ve gezinme yapılmadı,2026-10-09T16:44:22Z

@@ -1,0 +1,54 @@
+2026-10-09T17:07:56Z INFO Formda 473 aday; karar: {'(boş)': 425, 'Dahil': 48}
+2026-10-09T17:07:56Z INFO 48 belge parçası (47 belge); 45 işlenecek, 3 zaten arşivde.
+2026-10-09T17:08:16Z INFO M09 Swiss Press Council (Schweizer Pres: otomatik / arşivlendi
+2026-10-09T17:08:33Z INFO K04 Anadolu Ajansı (AA): otomatik / arşivlendi
+2026-10-09T17:08:59Z INFO K01 Associated Press (AP): otomatik / arşivlendi
+2026-10-09T17:09:19Z INFO K11 Al Jazeera: otomatik / arşivlendi
+2026-10-09T17:09:34Z INFO K12 The Guardian: otomatik / arşivlendi
+2026-10-09T17:09:52Z INFO K13 The New York Times: otomatik / arşivlendi [görsel kontrol]
+2026-10-09T17:10:13Z INFO K03a Reuters / Thomson Reuters: otomatik / arşivlendi
+2026-10-09T17:10:31Z INFO K03b Reuters / Thomson Reuters: otomatik / arşivlendi
+2026-10-09T17:10:55Z INFO K14 The Globe and Mail: otomatik / arşivlendi
+2026-10-09T17:11:09Z INFO K15 USA Today / Gannett: otomatik / arşivlendi
+2026-10-09T17:11:29Z INFO K05 dpa (Deutsche Presse-Agentur): otomatik / arşivlendi
+2026-10-09T17:11:43Z INFO K17 Aftonbladet: otomatik / arşivlendi
+2026-10-09T17:11:57Z INFO K18 Verdens Gang (VG): otomatik / arşivlendi
+2026-10-09T17:12:12Z INFO K23 Mwananchi Communications (MCL): otomatik / arşivlendi
+2026-10-09T17:12:23Z INFO K29 Todo Jujuy: manuel / arşivlendi
+2026-10-09T17:12:41Z INFO K27 Núcleo Jornalismo: otomatik / arşivlendi
+2026-10-09T17:13:39Z INFO K24 Wired: otomatik / arşivlendi
+2026-10-09T17:14:01Z INFO K25 Business Insider: otomatik / arşivlendi
+2026-10-09T17:14:21Z INFO K26 Heidi.news: otomatik / arşivlendi
+2026-10-09T17:14:38Z INFO M02 International Federation of Journal: otomatik / arşivlendi
+2026-10-09T17:14:55Z INFO K28 Hong Kong Free Press (HKFP): otomatik / arşivlendi
+2026-10-09T17:14:59Z INFO M11 Türkiye Gazeteciler Cemiyeti (TGC): manuel / arşivlendi
+2026-10-09T17:15:07Z INFO M15 Press Council of Serbia: manuel / arşivlendi
+2026-10-09T17:15:24Z INFO M06 Raad voor de Journalistiek (Flandre: otomatik / arşivlendi [görsel kontrol]
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/AEZDTQ+Univers-CondensedBold', '/Encoding': '/MacRomanEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(737, 0, 4690509648), '/LastChar': 121, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [222, 0, 0, 0, 0, 0, 0, 0, 278, 278, 0, 0, 222, 0, 222, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 222, 0, 0, 0, 0, 0, 611, 0, 556, 0, 500, 444, 0, 0, 278, 500, 0, 0, 0, 0, 0, 556, 0, 0, 556, 500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 500, 500, 500, 500, 500, 278, 500, 500, 278, 278, 500, 278, 722, 500, 500, 500, 0, 333, 444, 278, 500, 444, 778, 500, 444]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/HKYLBP+FuturaT-Bold', '/Encoding': '/MacRomanEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(735, 0, 4690509648), '/LastChar': 90, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 710, 618, 590, 695, 489, 0, 0, 737, 313, 0, 700, 470, 915, 805, 818, 599, 0, 627, 571, 471, 721, 0, 0, 0, 640, 631]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/ZFDXHJ+Memphis-Bold', '/Encoding': '/MacRomanEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(733, 0, 4690509648), '/LastChar': 213, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [250, 0, 0, 0, 0, 0, 0, 222, 0, 0, 0, 0, 250, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 0, 0, 0, 0, 0, 0, 722, 0, 0, 0, 611, 0, 0, 0, 0, 333, 0, 0, 889, 0, 0, 611, 0, 0, 611, 611, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 611, 611, 500, 611, 556, 333, 611, 611, 333, 278, 556, 333, 889, 611, 556, 611, 0, 389, 500, 333, 611, 556, 833, 556, 556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 278]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/NQGOZR+Garamond-LightCondensed', '/Encoding': '/MacRomanEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(731, 0, 4690509648), '/LastChar': 32, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [194]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+fontTools is required to fully parse the encoding of a CFF Type1 font in font dictionary {'/BaseFont': '/RRKJHK+Univers-CondensedLight', '/Encoding': '/MacRomanEncoding', '/FirstChar': 32, '/FontDescriptor': IndirectObject(729, 0, 4690509648), '/LastChar': 223, '/Subtype': '/Type1', '/Type': '/Font', '/Widths': [222, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 222, 278, 222, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 222, 0, 0, 0, 0, 0, 556, 500, 500, 556, 444, 0, 556, 0, 222, 444, 0, 389, 0, 611, 0, 444, 0, 500, 500, 444, 556, 500, 833, 0, 0, 0, 0, 0, 0, 0, 0, 0, 444, 444, 389, 444, 444, 278, 444, 444, 222, 222, 389, 222, 667, 444, 444, 444, 444, 278, 389, 278, 444, 389, 667, 389, 389, 333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 222, 0, 0, 0, 0, 0, 0, 0, 0, 444, 444]}, but is not installed. Consider installing fontTools if you encounter encoding problems.
+2026-10-09T17:15:32Z INFO M18 Society of Professional Journalists: manuel / arşivlendi
+2026-10-09T17:15:47Z INFO M10 Press Council of South Africa: otomatik / arşivlendi
+2026-10-09T17:16:16Z INFO M08 Pressenævnet (Danimarka Basın Konse: otomatik / arşivlendi
+2026-10-09T17:16:37Z INFO M03 DJV (Deutscher Journalisten-Verband: manuel / arşivlendi
+2026-10-09T17:17:39Z INFO K08 CBC/Radio-Canada: manuel / arşivlendi
+2026-10-09T17:19:21Z INFO K09 NPR: manuel / arşivlendi
+2026-10-09T17:19:21Z INFO K06 ANP: manuel / arşivlendi
+2026-10-09T17:19:21Z INFO K10 RTVE: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K16 Mediahuis: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K19 Atresmedia: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K20 Groupe Les Echos-Le Parisien: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K21 Estadão (Grupo Estado): manuel / arşivlendi
+2026-10-09T17:19:24Z INFO K22 Nation Media Group (NMG): manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M04 AJP (Association des journalistes p: manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M05 impressum – Les journalistes suisse: manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M07 CDJM (Fransa): manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M12 Türkiye Basın Konseyi: manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M13 GDA ve Türkiye basın/medya konseyle: manuel / arşivlendi
+2026-10-09T17:19:26Z INFO M14 Ethical Journalism Network (EJN): manuel / arşivlendi
+2026-10-09T17:19:26Z INFO M16 Albanian Media Council / Albanian M: manuel / arşivlendi
+2026-10-09T17:19:28Z INFO M17 Media Council for Self-Regulation (: manuel / arşivlendi
+2026-10-09T17:19:28Z INFO Özet: {'manuel/arşivlendi': 23, 'otomatik/arşivlendi': 25}
+2026-10-09T17:19:28Z INFO Görsel kontrol gereken: 2

@@ -1,0 +1,48 @@
+belge_id,kurum,grup,aktor_turu,ulke,bolge,alan_adi,bilinen_url,url_guveni,not
+K01,Associated Press (AP),K,Ajans,ABD,Kuzey Amerika,ap.org,https://www.ap.org/the-definitive-source/behind-the-news/standards-around-generative-ai/,yuksek,
+K02,Agence France-Presse (AFP),K,Ajans,Fransa,Avrupa,afp.com,,dusuk,"Editorial standards and best practices belgesi, 8. bölüm (YZ)"
+K03,Reuters / Thomson Reuters,K,Ajans,Kanada/İngiltere,Kuzey Amerika,thomsonreuters.com; reutersagency.com,https://www.thomsonreuters.com/en/artificial-intelligence/ai-principles ; https://reutersagency.com/technology-ai/,yuksek,İki sayfa tek belge olarak birleştirilir
+K04,Anadolu Ajansı (AA),K,Ajans,Türkiye,Türkiye,aa.com.tr,https://www.aa.com.tr/tr/haberakademisi/haberler/medyada-yapay-zeka-etik-kullanim-rehberi/533264,yuksek,
+K05,dpa (Deutsche Presse-Agentur),K,Ajans,Almanya,Avrupa,dpa.com,https://innovation.dpa.com/2023/04/03/kuenstliche-intelligenz-fuenf-guidelines-der-dpa/,yuksek,
+K06,ANP,K,Ajans,Hollanda,Avrupa,anp.nl,,dusuk,Leidraad: zo gaat de ANP-redactie om met AI
+K07,BBC,K,Kamu yayıncısı,İngiltere,Avrupa,bbc.co.uk,https://www.bbc.co.uk/editorialguidelines/guidance/use-of-artificial-intelligence,yuksek,
+K08,CBC/Radio-Canada,K,Kamu yayıncısı,Kanada,Kuzey Amerika,cbc.ca,https://www.cbc.ca/news/editorsblog/cbc-twitter-news-1.6873270,yuksek,Aktarılmış metin (editör blogu)
+K09,NPR,K,Kamu yayıncısı,ABD,Kuzey Amerika,npr.org,https://www.npr.org/about-npr/1205385162/special-section-generative-artificial-intelligence,yuksek,
+K10,RTVE,K,Kamu yayıncısı,İspanya,Avrupa,rtveia.es,,dusuk,"Önerilen çerçeve (belge statüsü: öneri)"
+K11,Al Jazeera,K,Kamu yayıncısı,Katar,Küresel Güney,institute.aljazeera.net,https://institute.aljazeera.net/en/ajr/article/2255,yuksek,"Kurum yayın organında makale; yalnızca 'What can be done' bölümleri"
+K12,The Guardian,K,Ticari,İngiltere,Avrupa,theguardian.com,https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai,yuksek,2026 güncellemesi
+K13,The New York Times,K,Ticari,ABD,Kuzey Amerika,nytco.com,https://www.nytco.com/press/principles-for-using-generative-a․i․-in-the-timess-newsroom/,orta,URL'de özel nokta karakteri (U+2024) var
+K14,The Globe and Mail,K,Ticari,Kanada,Kuzey Amerika,theglobeandmail.com,https://www.theglobeandmail.com/canada/article-the-globe-and-mails-guidelines-on-ai-and-the-newsroom/,yuksek,
+K15,USA Today / Gannett,K,Ticari,ABD,Kuzey Amerika,usatoday.com,https://cm.usatoday.com/ethical-conduct/,yuksek,Yalnızca YZ bölümü
+K16,Mediahuis,K,Ticari,Belçika/Hollanda,Avrupa,mediahuis.com,,dusuk,AI Framework for Mediahuis
+K17,Aftonbladet,K,Ticari,İsveç,Avrupa,aftonbladet.se,https://www.aftonbladet.se/omaftonbladet/a/76ydy9/aftonbladets-ai-policy-sa-forhaller-vi-oss-till-den-nya-tekniken,yuksek,
+K18,Verdens Gang (VG),K,Ticari,Norveç,Avrupa,vg.no,https://www.vg.no/informasjon/redaksjonelle-avgjorelser/188,yuksek,
+K19,Atresmedia,K,Ticari,İspanya,Avrupa,atresmediacorporacion.com,,dusuk,Alan adı doğrulanmalı
+K20,Groupe Les Echos-Le Parisien,K,Ticari,Fransa,Avrupa,,,dusuk,Alan adı doğrulanmalı
+K21,Estadão (Grupo Estado),K,Ticari,Brezilya,Küresel Güney,estadao.com.br,,dusuk,Aktarılmış/özet metin
+K22,Nation Media Group (NMG),K,Ticari,Kenya,Küresel Güney,nationmedia.com,,dusuk,Alan adı doğrulanmalı
+K23,Mwananchi Communications (MCL),K,Ticari,Tanzanya,Küresel Güney,thecitizen.co.tz,https://www.thecitizen.co.tz/tanzania/news/national/mcl-unveils-ai-policy-to-guide-newsroom-innovation-5454970,yuksek,"Politikayı aktaran haber; politika metninin kendisi aranmalı"
+K24,Wired,K,Dijital yerli,ABD,Kuzey Amerika,wired.com,https://www.wired.com/about/generative-ai-policy/,yuksek,
+K25,Business Insider,K,Dijital yerli,ABD,Kuzey Amerika,businessinsider.com,https://www.businessinsider.com/how-insider-newsroom-will-use-ai-2023-4,yuksek,
+K26,Heidi.news,K,Dijital yerli,İsviçre,Avrupa,heidi.news,https://www.heidi.news/cyber/la-redaction-de-heidi-news-prend-position-sur-l-usage-des-intelligences-artificielles,yuksek,
+K27,Núcleo Jornalismo,K,Dijital yerli,Brezilya,Küresel Güney,nucleo.jor.br,https://nucleo.jor.br/nucleos-ai-use-policy/,yuksek,
+K28,Hong Kong Free Press (HKFP),K,Dijital yerli,Hong Kong,Küresel Güney,hongkongfp.com,https://hongkongfp.com/hkfp-powered-by-humans-not-ai/,yuksek,
+K29,Todo Jujuy,K,Dijital yerli,Arjantin,Küresel Güney,todojujuy.com,https://www.todojujuy.com/usos-ia,yuksek,
+M01,Reporters Sans Frontières (RSF) – Paris Şartı,M,Savunuculuk / uluslararası,Uluslararası,Uluslararası,rsf.org,https://rsf.org/sites/default/files/medias/file/2023/11/Paris%20Charter%20on%20AI%20and%20Journalism.pdf,yuksek,
+M02,International Federation of Journalists (IFJ),M,Meslek örgütü / sendika,Uluslararası,Uluslararası,ifj.org,https://www.ifj.org/who/rules-and-policy/ifj-recommendations-on-the-use-of-artificial-intelligence,yuksek,
+M03,DJV (Deutscher Journalisten-Verband),M,Meslek örgütü / sendika,Almanya,Avrupa,djv.de,https://www.djv.de/medienpolitik/kuenstliche-intelligenz/,yuksek,
+M04,AJP (Association des journalistes professionnels),M,Meslek örgütü / sendika,Belçika,Avrupa,ajp.be,,dusuk,
+M05,impressum – Les journalistes suisses,M,Meslek örgütü / sendika,İsviçre,Avrupa,impressum.ch,,dusuk,22.09.2023 tarihli karar
+M06,Raad voor de Journalistiek (Flandre),M,Basın konseyi,Belçika,Avrupa,rvdj.be,https://www.rvdj.be/node/210,orta,Yalnızca Madde 12 ve YZ yönergesi
+M07,CDJM (Fransa),M,Basın konseyi,Fransa,Avrupa,cdjm.org,,dusuk,03.07.2023 tavsiye kararı
+M08,Pressenævnet (Danimarka Basın Konseyi),M,Basın konseyi,Danimarka,Avrupa,pressenaevnet.dk,https://www.pressenaevnet.dk/guidelines-on-sound-press-ethics/,yuksek,Yalnızca YZ'ye atıf yapan bölüm
+M09,Swiss Press Council (Schweizer Presserat),M,Basın konseyi,İsviçre,Avrupa,presserat.ch,https://presserat.ch/en/journalistenkodex/ai-in-journalism/,yuksek,
+M10,Press Council of South Africa,M,Basın konseyi,Güney Afrika,Küresel Güney,presscouncilsa.org.za,https://presscouncilsa.org.za/2023/11/28/press-council-of-sa-pcsa-guidance-notes/,yuksek,
+M11,Türkiye Gazeteciler Cemiyeti (TGC),M,Meslek örgütü / sendika,Türkiye,Türkiye,tgc.org.tr,https://www.tgc.org.tr/bildirgeler/türkiye-gazetecilik-hak-ve-sorumluluk-bildirgesi/bildirge.html,yuksek,Yalnızca YZ başlığı ve YZ'ye atıf yapan maddeler
+M12,Türkiye Basın Konseyi,M,Basın konseyi,Türkiye,Türkiye,basinkonseyi.org.tr,,dusuk,Yalnızca Madde 18
+M13,GDA ve Türkiye basın/medya konseyleri – Ohri Bildirgesi,M,Basın konseyi,Bölgesel,Uluslararası,,,dusuk,20.05.2025
+M14,Ethical Journalism Network (EJN),M,Savunuculuk / uluslararası,Bölgesel,Uluslararası,ethicaljournalismnetwork.org,,dusuk,Brussels Statement – Öneri 5 ve YZ eki
+M15,Press Council of Serbia,M,Basın konseyi,Sırbistan,Avrupa,savetzastampu.rs,https://savetzastampu.rs/dokumenta/kodeks-novinara-srbije/,orta,"Mevcut örneklemde haber metni var; kodun kendisi bu adreste olabilir, kontrol edilmeli"
+M16,Albanian Media Council / Albanian Media Institute,M,Basın konseyi,Arnavutluk,Avrupa,institutemedia.org,,dusuk,Yayımcı kurum doğrulanmalı
+M17,Media Council for Self-Regulation (Karadağ),M,Basın konseyi,Karadağ,Avrupa,,,dusuk,"Rapor; yalnızca IV. bölüm (etik yönergeler)"
+M18,Society of Professional Journalists (SPJ),M,Meslek örgütü / sendika,ABD,Kuzey Amerika,spj.org,https://www.spj.org/spj-ethics-code-revision-project-2026/,yuksek,Önerilen revizyon (taslak)

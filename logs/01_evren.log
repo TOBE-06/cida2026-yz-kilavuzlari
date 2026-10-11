@@ -1,0 +1,31 @@
+2026-10-09T14:46:47Z INFO Toplam aktör: 106
+2026-10-09T14:46:47Z INFO   kaynak türü tohum                  47
+2026-10-09T14:46:47Z INFO   kaynak türü literatür              41
+2026-10-09T14:46:47Z INFO   kaynak türü web araması            13
+2026-10-09T14:46:47Z INFO   kaynak türü yeniden değerlendirme  3
+2026-10-09T14:46:47Z INFO   kaynak türü dizin                  2
+2026-10-09T14:46:47Z INFO   olası grup K                       76
+2026-10-09T14:46:47Z INFO   olası grup M                       27
+2026-10-09T14:46:47Z INFO   olası grup (belirsiz)              3
+2026-10-09T14:46:47Z INFO Alan adı bulunamayan aktör: 2
+2026-10-09T14:46:47Z INFO Evrene alınması araştırmacı kararını bekleyen aktör: 5
+2026-10-09T14:46:47Z INFO   bekliyor: OFCOM – Literatür listesinde; kaynakta düzenleyici kurum olarak geçiyor; evrene alınması araştırmacı kararı
+2026-10-09T14:46:47Z INFO   bekliyor: Adobe – Literatür listesinde; kaynakta yazılım şirketi olarak geçiyor; evrene alınması araştırmacı kararı
+2026-10-09T14:46:47Z INFO   bekliyor: Prodigioso Volcán – Literatür listesinde; kaynakta inovasyon şirketi olarak geçiyor; evrene alınması araştırmacı kararı
+2026-10-09T14:46:47Z INFO   bekliyor: Stanford Daily – Web aramasında YZ politikası bulundu; öğrenci gazetesi; evrene alınması araştırmacı kararı
+2026-10-09T14:46:47Z INFO   bekliyor: Quanta Magazine – Web aramasında YZ yayın politikası bulundu; bilim dergisi; evrene alınması araştırmacı kararı
+2026-10-09T14:46:47Z INFO Yazıldı: data/interim/evren.csv
+2026-10-09T15:05:54Z INFO Toplam aktör: 106
+2026-10-09T15:05:54Z INFO   kaynak türü tohum                  47
+2026-10-09T15:05:54Z INFO   kaynak türü literatür              41
+2026-10-09T15:05:54Z INFO   kaynak türü web araması            13
+2026-10-09T15:05:54Z INFO   kaynak türü yeniden değerlendirme  3
+2026-10-09T15:05:54Z INFO   kaynak türü dizin                  2
+2026-10-09T15:05:54Z INFO   olası grup K                       76
+2026-10-09T15:05:54Z INFO   olası grup M                       27
+2026-10-09T15:05:54Z INFO   olası grup (belirsiz)              3
+2026-10-09T15:05:54Z INFO Alan adı bulunamayan aktör: 2
+2026-10-09T15:05:54Z INFO Evrene alınması araştırmacı kararını bekleyen aktör: 0
+2026-10-09T15:05:54Z INFO Yazıldı: data/interim/evren.csv
+2026-10-10T12:39:23Z INFO evren.csv zaten var; atlandı (yenilemek için --force).
+2026-10-10T12:39:55Z INFO evren.csv zaten var; atlandı (yenilemek için --force).

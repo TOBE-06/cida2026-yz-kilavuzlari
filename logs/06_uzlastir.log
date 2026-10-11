@@ -1,0 +1,7 @@
+2026-10-10T12:37:19Z INFO Uzlaştırma: {'eşleşen': 31, 'yeni aday': 22, 'bulunamayan': 16}
+2026-10-10T12:37:19Z INFO Sürüm değişikliği: {'hesaplanamadı': 23, 'hayır': 22, 'evet': 2}
+2026-10-10T12:37:19Z INFO   olası sürüm farkı: K23 Mwananchi Communications (MCL) (benzerlik 51.5)
+2026-10-10T12:37:19Z INFO   olası sürüm farkı: M06 Raad voor de Journalistiek (Flandre) (benzerlik 45.5)
+2026-10-10T12:37:20Z INFO Yazıldı: reports/uzlastirma.csv; envanterin uzlaştırma sütunları güncellendi.
+2026-10-10T12:39:46Z INFO Uzlaştırma tablosu zaten var; atlandı (yenilemek için --force).
+2026-10-10T12:40:17Z INFO Uzlaştırma tablosu zaten var; atlandı (yenilemek için --force).

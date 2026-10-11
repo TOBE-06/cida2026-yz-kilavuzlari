@@ -1,0 +1,4 @@
+2026-10-09T17:04:45Z INFO Araştırmacının toplu kararı işlendi: 48 satır 'Dahil' (47 farklı belge). Kararı boş kalan aday: 425.
+2026-10-09T17:04:45Z INFO Form güncellendi (önceki hali: eleme_formu_yedek_2026-10-09T170445Z.xlsx).
+2026-10-10T12:18:38Z INFO Araştırmacının kararı işlendi: 30 satır (22 belge) 'Ertelendi'. Karar dağılımı: {'Hariç': 378, 'Dahil': 51, 'Ertelendi': 30, 'Belirsiz': 14}
+2026-10-10T12:18:38Z INFO Form güncellendi (önceki hali: eleme_formu_yedek_2026-10-10T121838Z.xlsx).

@@ -1,0 +1,86 @@
+# Keşif aşamasında kullanılan çok dilli anahtar sözcükler.
+# Bir sayfa aday sayılmak için: en az bir "yz_terimi" + en az bir "belge_terimi"
+# (URL, başlık veya bağlantı metninde) içermelidir. Normatif işaretler yalnızca
+# ön puanlamada kullanılır; dahil etme kararını araştırmacı verir.
+
+diller:
+  en:
+    yz_terimi: ["artificial intelligence", "generative ai", "genai", " ai ", "ai-", "chatgpt", "large language model", "llm", "synthetic media"]
+    belge_terimi: ["guideline", "guidelines", "policy", "principles", "standards", "code of ethics", "charter", "framework", "guidance", "approach", "rules", "editorial"]
+    normatif_isaret: ["must", "must not", "should", "shall", "will not", "never", "is prohibited", "may only", "requires", "responsible for"]
+  tr:
+    yz_terimi: ["yapay zekâ", "yapay zeka", "üretken yapay zek", "yz "]
+    belge_terimi: ["ilke", "ilkeleri", "rehber", "yönerge", "kılavuz", "bildirge", "etik", "kural", "standart"]
+    normatif_isaret: ["-malı", "-meli", "yasak", "zorunlu", "sorumlu", "kullanılamaz", "kullanılmaz", "edilmez"]
+  de:
+    yz_terimi: ["künstliche intelligenz", "generative ki", " ki ", "ki-"]
+    belge_terimi: ["richtlinie", "richtlinien", "leitlinien", "grundsätze", "kodex", "positionen", "regeln"]
+    normatif_isaret: ["muss", "müssen", "darf nicht", "dürfen nicht", "soll", "sollen", "verantwortung"]
+  fr:
+    yz_terimi: ["intelligence artificielle", "ia générative", " ia ", "ia-"]
+    belge_terimi: ["charte", "lignes directrices", "recommandation", "recommandations", "principes", "déontologie", "engagements", "bonnes pratiques"]
+    normatif_isaret: ["doit", "doivent", "ne doit pas", "interdit", "à proscrire", "responsabilité"]
+  nl:
+    yz_terimi: ["artificiële intelligentie", "kunstmatige intelligentie", " ai ", "ai-"]
+    belge_terimi: ["richtlijn", "leidraad", "uitgangspunten", "code", "beleid"]
+    normatif_isaret: ["moet", "mag niet", "verplicht", "verantwoordelijk"]
+  es:
+    yz_terimi: ["inteligencia artificial", "ia generativa", " ia "]
+    belge_terimi: ["política", "directrices", "principios", "libro de estilo", "marco de uso", "compromisos"]
+    normatif_isaret: ["debe", "deberán", "no se", "prohibido", "responsabilidad"]
+  pt:
+    yz_terimi: ["inteligência artificial", "ia generativa", " ia "]
+    belge_terimi: ["política", "diretrizes", "princípios", "regras"]
+    normatif_isaret: ["deve", "devem", "não pode", "proibido", "nunca"]
+  sv:
+    yz_terimi: ["artificiell intelligens", "ai-policy", " ai "]
+    belge_terimi: ["riktlinjer", "policy", "principer"]
+    normatif_isaret: ["ska", "får inte", "ansvar"]
+  "no":
+    yz_terimi: ["kunstig intelligens", " ki ", " ai "]
+    belge_terimi: ["retningslinjer", "regler", "prinsipper"]
+    normatif_isaret: ["skal", "skal ikke", "ansvar"]
+  da:
+    yz_terimi: ["kunstig intelligens", " ai "]
+    belge_terimi: ["retningslinjer", "presseetik", "regler"]
+    normatif_isaret: ["skal", "må ikke", "ansvar"]
+  sh:   # Sırpça, Hırvatça, Boşnakça, Karadağca (Latin)
+    yz_terimi: ["veštačk", "vještačk", "umjetna inteligencija", "umetna inteligencija"]
+    belge_terimi: ["kodeks", "smjernice", "smernice", "deklaracija", "preporuke"]
+    normatif_isaret: ["mora", "ne smije", "ne sme", "odgovornost"]
+  sq:
+    yz_terimi: ["inteligjenca artificiale", "inteligjencës artificiale"]
+    belge_terimi: ["udhëzime", "kodi", "parimet"]
+    normatif_isaret: ["duhet", "nuk duhet", "përgjegjës"]
+  it:
+    yz_terimi: ["intelligenza artificiale", " ia "]
+    belge_terimi: ["linee guida", "codice", "principi", "carta"]
+    normatif_isaret: ["deve", "non deve", "vietato", "responsabilità"]
+
+# URL/yol içinde aranacak kalıplar (küçük harf, dilden bağımsız)
+url_kaliplari:
+  - "artificial-intelligence"
+  - "generative-ai"
+  - "ai-policy"
+  - "ai-guidelines"
+  - "ai-principles"
+  - "use-of-ai"
+  - "/ai/"
+  - "-ai-"
+  - "kuenstliche-intelligenz"
+  - "kunstliche-intelligenz"
+  - "intelligence-artificielle"
+  - "inteligencia-artificial"
+  - "inteligencia-artificial"
+  - "yapay-zeka"
+  - "politica-ia"
+  - "usos-ia"
+  - "editorial-guidelines"
+  - "editorialguidelines"
+  - "ethics"
+  - "code-of-ethics"
+  - "journalistenkodex"
+  - "kodeks"
+
+# Başlangıç için gezilecek tipik kurumsal sayfa yolları (keşif derinliği 2)
+baslangic_yollari: ["/", "/about", "/about-us", "/hakkimizda", "/ethics", "/standards", "/editorial-standards", "/policies", "/en", "/corporate"]

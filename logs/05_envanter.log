@@ -1,0 +1,8 @@
+2026-10-10T12:37:15Z INFO Envanter: 47 belge (K: 29, M: 18). Toplama yöntemi: {'otomatik': 24, 'manuel': 23}
+2026-10-10T12:37:15Z INFO   'belge_bicimi' boş olan 47 belge: K01, K02, K03, K04, K05, K06, K07, K08, K09, K10, K11, K12, K13, K14, K15, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K28, K29, M01, M02, M03, M04, M05, M06, M07, M08, M09, M10, M11, M12, M13, M14, M15, M16, M17, M18
+2026-10-10T12:37:15Z INFO   'belge_statusu' boş olan 47 belge: K01, K02, K03, K04, K05, K06, K07, K08, K09, K10, K11, K12, K13, K14, K15, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K28, K29, M01, M02, M03, M04, M05, M06, M07, M08, M09, M10, M11, M12, M13, M14, M15, M16, M17, M18
+2026-10-10T12:37:15Z INFO   'kodlama_kapsami' boş olan 45 belge: K01, K02, K03, K04, K06, K07, K08, K09, K10, K11, K12, K13, K14, K15, K16, K17, K18, K19, K20, K21, K22, K23, K24, K25, K26, K27, K28, K29, M01, M03, M04, M05, M06, M07, M08, M09, M10, M11, M12, M13, M14, M15, M16, M17, M18
+2026-10-10T12:37:15Z INFO Manifest: 205 dosya, 84.1 MB; üst veriyle uyuşmayan özet: 0
+2026-10-10T12:37:15Z INFO Yazıldı: envanter.csv, envanter.xlsx, reports/manifest.csv
+2026-10-10T12:39:44Z INFO Envanter zaten var; atlandı (yenilemek için --force).
+2026-10-10T12:40:15Z INFO Envanter zaten var; atlandı (yenilemek için --force).

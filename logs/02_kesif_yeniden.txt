@@ -1,0 +1,44 @@
+2026-10-09T16:40:35Z INFO Evrende 10 aktör; 10 taranacak, 0 atlanıyor (zaten taranmış).
+2026-10-09T16:40:45Z INFO K02 Agence France-Presse (AFP): 0 aday (afp.com: engellendi)
+2026-10-09T16:40:45Z INFO M17 Media Council for Self-Regulation (Karadağ): 0 aday (medijskisavjet.me: engellendi)
+2026-10-09T16:40:56Z INFO A027 ITN: 0 aday (itn.co.uk: engellendi)
+2026-10-09T16:41:01Z INFO A015 Dagens Næringsliv: 0 aday (dn.no: hata)
+2026-10-09T16:41:21Z INFO M03 DJV (Deutscher Journalisten-Verband): 1 aday (djv.de: hata)
+2026-10-09T16:41:48Z INFO K08 CBC/Radio-Canada: 1 aday (cbc.ca: engellendi)
+2026-10-09T16:42:11Z INFO K10 RTVE: 0 aday (rtveia.es: engellendi)
+2026-10-09T16:42:12Z INFO Y01 Deutscher Presserat: 0 aday (presserat.de: engellendi)
+2026-10-09T16:42:12Z INFO K09 NPR: 1 aday (npr.org: engellendi)
+2026-10-09T16:44:22Z INFO M13 GDA ve Türkiye basın/medya konseyleri – Ohri Bildirgesi: 0 aday (medijskisavjet.me: engellendi; seecheck.org: tamam)
+2026-10-09T16:44:22Z INFO Toplam aday: 460 (106 aktör tarandı)
+2026-10-09T16:44:22Z INFO   bulunma yolu sitemap   202
+2026-10-09T16:44:22Z INFO   bulunma yolu gezinme   132
+2026-10-09T16:44:22Z INFO   bulunma yolu etik_kod  81
+2026-10-09T16:44:22Z INFO   bulunma yolu tohum     32
+2026-10-09T16:44:22Z INFO   bulunma yolu arama     13
+2026-10-09T16:44:22Z INFO Ana sayfası alınamayan veya engellenen aktör: 26
+2026-10-09T16:44:22Z INFO   K01 Associated Press (AP) – ap.org: engellendi
+2026-10-09T16:44:22Z INFO   K16 Mediahuis – mediahuis.com: engellendi
+2026-10-09T16:44:22Z INFO   K20 Groupe Les Echos-Le Parisien – leparisien.fr: engellendi; lesechos.fr: engellendi
+2026-10-09T16:44:22Z INFO   K21 Estadão (Grupo Estado) – estadao.com.br: engellendi
+2026-10-09T16:44:22Z INFO   K22 Nation Media Group (NMG) – nation.africa: engellendi
+2026-10-09T16:44:22Z INFO   K29 Todo Jujuy – todojujuy.com: engellendi
+2026-10-09T16:44:22Z INFO   M11 Türkiye Gazeteciler Cemiyeti (TGC) – tgc.org.tr: engellendi
+2026-10-09T16:44:22Z INFO   M15 Press Council of Serbia – savetzastampu.rs: engellendi
+2026-10-09T16:44:22Z INFO   M18 Society of Professional Journalists (SPJ) – spj.org: engellendi
+2026-10-09T16:44:22Z INFO   A011 De Volkskrant – volkskrant.nl: engellendi
+2026-10-09T16:44:22Z INFO   A012 DPG Media – dpgmediagroup.com: engellendi
+2026-10-09T16:44:22Z INFO   A028 Financial Times – ft.com: engellendi
+2026-10-09T16:44:22Z INFO   A029 The Atlantic – theatlantic.com: engellendi
+2026-10-09T16:44:22Z INFO   A045 PBS – pbs.org: engellendi
+2026-10-09T16:44:22Z INFO   A048 States Newsroom – newjerseymonitor.com: engellendi
+2026-10-09T16:44:22Z INFO   A054 Impress (İngiltere) – impressorg.com: engellendi
+2026-10-09T16:44:22Z INFO   K02 Agence France-Presse (AFP) – afp.com: engellendi
+2026-10-09T16:44:22Z INFO   M17 Media Council for Self-Regulation (Karadağ) – medijskisavjet.me: engellendi
+2026-10-09T16:44:22Z INFO   A027 ITN – itn.co.uk: engellendi
+2026-10-09T16:44:22Z INFO   A015 Dagens Næringsliv – dn.no: hata
+2026-10-09T16:44:22Z INFO   M03 DJV (Deutscher Journalisten-Verband) – djv.de: hata
+2026-10-09T16:44:22Z INFO   K08 CBC/Radio-Canada – cbc.ca: engellendi
+2026-10-09T16:44:22Z INFO   K10 RTVE – rtveia.es: engellendi
+2026-10-09T16:44:22Z INFO   Y01 Deutscher Presserat – presserat.de: engellendi
+2026-10-09T16:44:22Z INFO   K09 NPR – npr.org: engellendi
+2026-10-09T16:44:22Z INFO   M13 GDA ve Türkiye basın/medya konseyleri – Ohri Bildirgesi – medijskisavjet.me: engellendi; seecheck.org: tamam

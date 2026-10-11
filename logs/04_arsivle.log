@@ -1,0 +1,206 @@
+2026-10-09T17:07:07Z INFO Formda 473 aday; karar: {'(boş)': 425, 'Dahil': 48}
+2026-10-09T17:07:07Z INFO 48 belge parçası (47 belge); 48 işlenecek, 0 zaten arşivde.
+2026-10-09T17:07:07Z INFO   M09 Swiss Press Council (Schweizer Presserat https://presserat.ch/en/journalistenkodex/ai-in-journalism/
+2026-10-09T17:07:07Z INFO   K07 BBC                                      https://www.bbc.co.uk/editorialguidelines/guidance/use-of-artificial-intelligence
+2026-10-09T17:07:07Z INFO   K04 Anadolu Ajansı (AA)                      https://www.aa.com.tr/tr/haberakademisi/haberler/medyada-yapay-zeka-etik-kullanim-rehberi/533264
+2026-10-09T17:07:07Z INFO   K01 Associated Press (AP)                    https://www.ap.org/the-definitive-source/behind-the-news/standards-around-generative-ai/
+2026-10-09T17:07:07Z INFO   K11 Al Jazeera                               https://institute.aljazeera.net/en/ajr/article/2255
+2026-10-09T17:07:07Z INFO   K12 The Guardian                             https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai
+2026-10-09T17:07:07Z INFO   K13 The New York Times                       https://www.nytco.com/press/principles-for-using-generative-a․i․-in-the-timess-newsroom/
+2026-10-09T17:07:07Z INFO   K03a Reuters / Thomson Reuters                https://www.thomsonreuters.com/en/artificial-intelligence/ai-principles
+2026-10-09T17:07:07Z INFO   K03b Reuters / Thomson Reuters                https://reutersagency.com/technology-ai/
+2026-10-09T17:07:07Z INFO   K14 The Globe and Mail                       https://www.theglobeandmail.com/canada/article-the-globe-and-mails-guidelines-on-ai-and-the-newsroom/
+2026-10-09T17:07:07Z INFO   K15 USA Today / Gannett                      https://cm.usatoday.com/ethical-conduct/
+2026-10-09T17:07:07Z INFO   K05 dpa (Deutsche Presse-Agentur)            https://innovation.dpa.com/2023/04/03/kuenstliche-intelligenz-fuenf-guidelines-der-dpa/
+2026-10-09T17:07:07Z INFO   K17 Aftonbladet                              https://www.aftonbladet.se/omaftonbladet/a/76ydy9/aftonbladets-ai-policy-sa-forhaller-vi-oss-till-den-nya-tekniken
+2026-10-09T17:07:07Z INFO   K18 Verdens Gang (VG)                        https://www.vg.no/informasjon/redaksjonelle-avgjorelser/188
+2026-10-09T17:07:07Z INFO   K23 Mwananchi Communications (MCL)           https://www.thecitizen.co.tz/tanzania/news/national/mcl-unveils-ai-policy-to-guide-newsroom-innovation-5454970
+2026-10-09T17:07:07Z INFO   K29 Todo Jujuy                               https://www.todojujuy.com/usos-ia
+2026-10-09T17:07:07Z INFO   K27 Núcleo Jornalismo                        https://nucleo.jor.br/nucleos-ai-use-policy/
+2026-10-09T17:07:07Z INFO   K24 Wired                                    https://www.wired.com/about/generative-ai-policy/
+2026-10-09T17:07:07Z INFO   K25 Business Insider                         https://www.businessinsider.com/how-insider-newsroom-will-use-ai-2023-4
+2026-10-09T17:07:07Z INFO   K26 Heidi.news                               https://www.heidi.news/cyber/la-redaction-de-heidi-news-prend-position-sur-l-usage-des-intelligences-artificielles
+2026-10-09T17:07:07Z INFO   M02 International Federation of Journalists  https://www.ifj.org/who/rules-and-policy/ifj-recommendations-on-the-use-of-artificial-intelligence
+2026-10-09T17:07:07Z INFO   K28 Hong Kong Free Press (HKFP)              https://hongkongfp.com/hkfp-powered-by-humans-not-ai/
+2026-10-09T17:07:07Z INFO   M01 Reporters Sans Frontières (RSF) – Paris  https://rsf.org/sites/default/files/medias/file/2023/11/Paris%20Charter%20on%20AI%20and%20Journalism.pdf
+2026-10-09T17:07:07Z INFO   M11 Türkiye Gazeteciler Cemiyeti (TGC)       https://www.tgc.org.tr/bildirgeler/türkiye-gazetecilik-hak-ve-sorumluluk-bildirgesi/bildirge.html
+2026-10-09T17:07:07Z INFO   M15 Press Council of Serbia                  https://savetzastampu.rs/dokumenta/kodeks-novinara-srbije/
+2026-10-09T17:07:07Z INFO   M06 Raad voor de Journalistiek (Flandre)     https://www.rvdj.be/node/210
+2026-10-09T17:07:07Z INFO   M18 Society of Professional Journalists (SPJ https://www.spj.org/spj-ethics-code-revision-project-2026/
+2026-10-09T17:07:07Z INFO   M10 Press Council of South Africa            https://presscouncilsa.org.za/2023/11/28/press-council-of-sa-pcsa-guidance-notes/
+2026-10-09T17:07:07Z INFO   M08 Pressenævnet (Danimarka Basın Konseyi)   https://www.pressenaevnet.dk/guidelines-on-sound-press-ethics/
+2026-10-09T17:07:07Z INFO   M03 DJV (Deutscher Journalisten-Verband)     https://www.djv.de/medienpolitik/kuenstliche-intelligenz/
+2026-10-09T17:07:07Z INFO   K08 CBC/Radio-Canada                         https://www.cbc.ca/news/editorsblog/cbc-twitter-news-1.6873270
+2026-10-09T17:07:07Z INFO   K09 NPR                                      https://www.npr.org/about-npr/1205385162/special-section-generative-artificial-intelligence
+2026-10-09T17:07:07Z INFO   K02 Agence France-Presse (AFP)               (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K06 ANP                                      (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K10 RTVE                                     (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K16 Mediahuis                                (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K19 Atresmedia                               (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K20 Groupe Les Echos-Le Parisien             (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K21 Estadão (Grupo Estado)                   (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   K22 Nation Media Group (NMG)                 (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M04 AJP (Association des journalistes profes (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M05 impressum – Les journalistes suisses     (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M07 CDJM (Fransa)                            (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M12 Türkiye Basın Konseyi                    (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M13 GDA ve Türkiye basın/medya konseyleri –  (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M14 Ethical Journalism Network (EJN)         (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M16 Albanian Media Council / Albanian Media  (adres yok → manuel)
+2026-10-09T17:07:07Z INFO   M17 Media Council for Self-Regulation (Karad (adres yok → manuel)
+2026-10-09T17:07:07Z INFO Deneme çalıştırması: ağa çıkılmadı, dosya yazılmadı.
+2026-10-09T17:07:10Z INFO Formda 473 aday; karar: {'(boş)': 425, 'Dahil': 48}
+2026-10-09T17:07:10Z INFO 48 belge parçası (47 belge); 3 işlenecek, 45 zaten arşivde.
+2026-10-09T17:07:35Z INFO K07 BBC: otomatik / arşivlendi
+2026-10-09T17:07:45Z INFO M01 Reporters Sans Frontières (RSF) – P: otomatik / arşivlendi
+2026-10-09T17:07:46Z INFO K02 Agence France-Presse (AFP): manuel / arşivlendi
+2026-10-09T17:07:46Z INFO Özet: {'manuel/arşivlendi': 1, 'otomatik/arşivlendi': 2}
+2026-10-09T17:07:46Z INFO Görsel kontrol gereken: 0
+2026-10-09T17:07:56Z INFO Formda 473 aday; karar: {'(boş)': 425, 'Dahil': 48}
+2026-10-09T17:07:56Z INFO 48 belge parçası (47 belge); 45 işlenecek, 3 zaten arşivde.
+2026-10-09T17:08:16Z INFO M09 Swiss Press Council (Schweizer Pres: otomatik / arşivlendi
+2026-10-09T17:08:33Z INFO K04 Anadolu Ajansı (AA): otomatik / arşivlendi
+2026-10-09T17:08:59Z INFO K01 Associated Press (AP): otomatik / arşivlendi
+2026-10-09T17:09:19Z INFO K11 Al Jazeera: otomatik / arşivlendi
+2026-10-09T17:09:34Z INFO K12 The Guardian: otomatik / arşivlendi
+2026-10-09T17:09:52Z INFO K13 The New York Times: otomatik / arşivlendi [görsel kontrol]
+2026-10-09T17:10:13Z INFO K03a Reuters / Thomson Reuters: otomatik / arşivlendi
+2026-10-09T17:10:31Z INFO K03b Reuters / Thomson Reuters: otomatik / arşivlendi
+2026-10-09T17:10:55Z INFO K14 The Globe and Mail: otomatik / arşivlendi
+2026-10-09T17:11:09Z INFO K15 USA Today / Gannett: otomatik / arşivlendi
+2026-10-09T17:11:29Z INFO K05 dpa (Deutsche Presse-Agentur): otomatik / arşivlendi
+2026-10-09T17:11:43Z INFO K17 Aftonbladet: otomatik / arşivlendi
+2026-10-09T17:11:57Z INFO K18 Verdens Gang (VG): otomatik / arşivlendi
+2026-10-09T17:12:12Z INFO K23 Mwananchi Communications (MCL): otomatik / arşivlendi
+2026-10-09T17:12:23Z INFO K29 Todo Jujuy: manuel / arşivlendi
+2026-10-09T17:12:41Z INFO K27 Núcleo Jornalismo: otomatik / arşivlendi
+2026-10-09T17:13:39Z INFO K24 Wired: otomatik / arşivlendi
+2026-10-09T17:14:01Z INFO K25 Business Insider: otomatik / arşivlendi
+2026-10-09T17:14:21Z INFO K26 Heidi.news: otomatik / arşivlendi
+2026-10-09T17:14:38Z INFO M02 International Federation of Journal: otomatik / arşivlendi
+2026-10-09T17:14:55Z INFO K28 Hong Kong Free Press (HKFP): otomatik / arşivlendi
+2026-10-09T17:14:59Z INFO M11 Türkiye Gazeteciler Cemiyeti (TGC): manuel / arşivlendi
+2026-10-09T17:15:07Z INFO M15 Press Council of Serbia: manuel / arşivlendi
+2026-10-09T17:15:24Z INFO M06 Raad voor de Journalistiek (Flandre: otomatik / arşivlendi [görsel kontrol]
+2026-10-09T17:15:32Z INFO M18 Society of Professional Journalists: manuel / arşivlendi
+2026-10-09T17:15:47Z INFO M10 Press Council of South Africa: otomatik / arşivlendi
+2026-10-09T17:16:16Z INFO M08 Pressenævnet (Danimarka Basın Konse: otomatik / arşivlendi
+2026-10-09T17:16:37Z INFO M03 DJV (Deutscher Journalisten-Verband: manuel / arşivlendi
+2026-10-09T17:17:39Z INFO K08 CBC/Radio-Canada: manuel / arşivlendi
+2026-10-09T17:19:21Z INFO K09 NPR: manuel / arşivlendi
+2026-10-09T17:19:21Z INFO K06 ANP: manuel / arşivlendi
+2026-10-09T17:19:21Z INFO K10 RTVE: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K16 Mediahuis: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K19 Atresmedia: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K20 Groupe Les Echos-Le Parisien: manuel / arşivlendi
+2026-10-09T17:19:22Z INFO K21 Estadão (Grupo Estado): manuel / arşivlendi
+2026-10-09T17:19:24Z INFO K22 Nation Media Group (NMG): manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M04 AJP (Association des journalistes p: manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M05 impressum – Les journalistes suisse: manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M07 CDJM (Fransa): manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M12 Türkiye Basın Konseyi: manuel / arşivlendi
+2026-10-09T17:19:25Z INFO M13 GDA ve Türkiye basın/medya konseyle: manuel / arşivlendi
+2026-10-09T17:19:26Z INFO M14 Ethical Journalism Network (EJN): manuel / arşivlendi
+2026-10-09T17:19:26Z INFO M16 Albanian Media Council / Albanian M: manuel / arşivlendi
+2026-10-09T17:19:28Z INFO M17 Media Council for Self-Regulation (: manuel / arşivlendi
+2026-10-09T17:19:28Z INFO Özet: {'manuel/arşivlendi': 23, 'otomatik/arşivlendi': 25}
+2026-10-09T17:19:28Z INFO Görsel kontrol gereken: 2
+2026-10-10T11:56:07Z INFO Formda 473 aday; karar: {'Hariç': 378, 'Dahil': 81, 'Belirsiz': 14}
+2026-10-10T11:56:07Z INFO 81 belge parçası (69 belge); 35 işlenecek, 46 zaten arşivde.
+2026-10-10T11:56:07Z INFO   K05a dpa (Deutsche Presse-Agentur)            https://innovation.dpa.com/2023/04/03/kuenstliche-intelligenz-fuenf-guidelines-der-dpa/
+2026-10-10T11:56:07Z INFO   K05b dpa (Deutsche Presse-Agentur)            https://www.dpa.com/en/about-dpa/ai-rules-editorial-team
+2026-10-10T11:56:07Z INFO   K30a ZDF                                      https://www.zdf.de/unternehmen/organisation/technik/ki-grundsaetze-des-zdf-100.html
+2026-10-10T11:56:07Z INFO   K30b ZDF                                      https://www.zdf.de/unternehmen/organisation/technik/gemeinsamer-ki-kodex-ard-zdf-deutsche-welle-deutschlandradio-100.html
+2026-10-10T11:56:07Z INFO   K31a NPO                                      https://npo.nl/innovatie/nieuws/omroepbrede-uitgangspunten-voor-werken-met-ai
+2026-10-10T11:56:07Z INFO   K31b NPO                                      https://npo.nl/pers/persberichten-en-publicaties/mediapartijen-stellen-gezamenlijke-richtlijnen-op-voor-ai-transparantie
+2026-10-10T11:56:07Z INFO   K31c NPO                                      https://npo.nl/pers/persberichten-en-publicaties/mediabedrijven-onderschrijven-ethische-richtlijnen-voor-gebruik-ai
+2026-10-10T11:56:07Z INFO   K32 Ringier                                  https://www.ringier.com/ringier-introduces-clear-guidelines-for-the-use-of-artificial-intelligence/
+2026-10-10T11:56:07Z INFO   K33 Journalisten (İsveç)                     https://www.journalisten.se/journalistens-ai-policy/
+2026-10-10T11:56:07Z INFO   K34 APA (Austria Presse Agentur)             https://apa.at/blog/warum-ki-in-betrieben-einen-code-of-conduct-braucht/
+2026-10-10T11:56:07Z INFO   K35 PBS                                      https://www.pbs.org/standards/blogs/standards-memos/applying-standards-to-generative-ai-tools
+2026-10-10T11:56:07Z INFO   K36 Agência Tatu                             https://www.agenciatatu.com.br/politica-de-uso-da-inteligencia-artificial-ia/
+2026-10-10T11:56:07Z INFO   K37 States Newsroom                          https://newjerseymonitor.com/ai-policy
+2026-10-10T11:56:07Z INFO   K38 Folha de S.Paulo                         https://temas.folha.uol.com.br/folha-projeto-editorial/manual-de-redacao-conduta/inteligencia-artificial.shtml
+2026-10-10T11:56:07Z INFO   K39 ABC (Australian Broadcasting Corporation https://www.abc.net.au/about/abc-ai-principles/104036790
+2026-10-10T11:56:07Z INFO   K40 Maldives Independent                     https://maldivesindependent.com/use-of-ai-policy
+2026-10-10T11:56:07Z INFO   M02a International Federation of Journalists  https://www.ifj.org/who/rules-and-policy/ifj-recommendations-on-the-use-of-artificial-intelligence
+2026-10-10T11:56:07Z INFO   M02b International Federation of Journalists  https://www.ifj.org/fileadmin/IA_-_Framework_Agreement_4_mai_2026_-_EN.docx.pdf
+2026-10-10T11:56:07Z INFO   M02c International Federation of Journalists  https://www.ifj.org/media-centre/news/detail/article/eu-journalists-and-creative-workers-call-for-a-human-centric-approach-to-regulating-ai
+2026-10-10T11:56:07Z INFO   M19a Reporters Sans Frontières (RSF) – Paris  https://rsf.org/fr/code-de-bonnes-pratiques-du-ai-act-derni%C3%A8re-occasion-de-prot%C3%A9ger-le-journalisme-face-aux-int%C3%A9r%C3%AAts
+2026-10-10T11:56:07Z INFO   M19b Reporters Sans Frontières (RSF) – Paris  https://rsf.org/fr/code-de-bonnes-pratiques-de-l-ai-act-rsf-r%C3%A9it%C3%A8re-son-appel-%C3%A0-prot%C3%A9ger-le-droit-%C3%A0-l-information-et
+2026-10-10T11:56:07Z INFO   M19c Reporters Sans Frontières (RSF) – Paris  https://rsf.org/fr/union-europ%C3%A9enne-les-7-recommandations-de-rsf-sur-l-ia-et-l-information
+2026-10-10T11:56:07Z INFO   M20 Reporters Sans Frontières (RSF) – Paris  https://rsf.org/en/countries-signing-council-europe-s-ai-framework-convention-should-not-be-tempted-self-regulation
+2026-10-10T11:56:07Z INFO   M21 Reporters Sans Frontières (RSF) – Paris  https://rsf.org/fr/sommet-sur-l-ia-les-sept-recommandations-de-rsf-pour-transformer-la-d%C3%A9claration-en-actions-pour-le
+2026-10-10T11:56:07Z INFO   M22a Albanian Media Council / Albanian Media  https://institutemedia.org/wp-content/uploads/2025/10/Code-of-Ethics-for-Journalists-English-2025.pdf
+2026-10-10T11:56:07Z INFO   M22b Albanian Media Council / Albanian Media  https://institutemedia.org/inteligjenca-artificiale-ne-media-sfida-dhe-dilema-etike-per-gazetaret-ne-shqiperi/
+2026-10-10T11:56:07Z INFO   M23a Finlandiya JSN                           https://jsn.fi/journalistin-ohjeet/soveltamisopas/
+2026-10-10T11:56:07Z INFO   M23b Finlandiya JSN                           https://jsn.fi/journalistin-ohjeet/
+2026-10-10T11:56:07Z INFO   M24 Radio Television Digital News Associatio https://www.rtdna.org/news/rtdna-releases-coverage-guidelines-on-the-use-of-ai-in-journalism
+2026-10-10T11:56:07Z INFO   M25 Impress (İngiltere)                      https://www.impressorg.com/wp-content/uploads/2024/01/Guidance-on-the-Impress-Standards-Code.pdf
+2026-10-10T11:56:07Z INFO   M26 Kosova Basın Konseyi (Press Council of K https://presscouncil-ks.org/wp-content/uploads/2026/06/UDHEZUES-Inteligjenca-Artificiale-dhe-etika-ne-gazetari.pdf
+2026-10-10T11:56:07Z INFO   M27 Svenska Journalistförbundet (SJF)        https://www.sjf.se/system/files/2024-07/Guidelines%20for%20generative%20AI%20in%20editorial%20offices.pdf
+2026-10-10T11:56:07Z INFO   M28 POESY (Panhelenik Gazeteci Sendikaları F https://www.poesy.gr/wp-content/uploads/Code-of-Conduct-for-the-Use-of-Generative-Artificial-Intelligence-by-Journalists.pdf
+2026-10-10T11:56:07Z INFO   M29a Raad voor de Journalistiek (Hollanda)    https://rvdj.nl/leidraad/sept-2026/
+2026-10-10T11:56:07Z INFO   M29b Raad voor de Journalistiek (Hollanda)    https://rvdj.nl/berichten/aanpassing-leidraad/
+2026-10-10T11:56:07Z INFO Deneme çalıştırması: ağa çıkılmadı, dosya yazılmadı.
+2026-10-10T11:56:18Z INFO Formda 473 aday; karar: {'Hariç': 378, 'Dahil': 81, 'Belirsiz': 14}
+2026-10-10T11:56:18Z INFO 81 belge parçası (69 belge); 35 işlenecek, 46 zaten arşivde.
+2026-10-10T11:56:33Z INFO K05 artık çok parçalı; harfsiz adlı 5 önceki dosya eski_surum klasörüne taşındı.
+2026-10-10T11:56:56Z INFO K05a dpa (Deutsche Presse-Agentur): otomatik / arşivlendi
+2026-10-10T11:57:14Z INFO K05b dpa (Deutsche Presse-Agentur): otomatik / arşivlendi
+2026-10-10T11:57:32Z INFO K30a ZDF: otomatik / arşivlendi
+2026-10-10T11:57:46Z INFO K30b ZDF: otomatik / arşivlendi
+2026-10-10T11:58:07Z INFO K31a NPO: otomatik / arşivlendi
+2026-10-10T11:58:20Z INFO K31b NPO: otomatik / arşivlendi
+2026-10-10T11:58:34Z INFO K31c NPO: otomatik / arşivlendi
+2026-10-10T11:58:51Z INFO K32 Ringier: otomatik / arşivlendi
+2026-10-10T11:59:22Z INFO K33 Journalisten (İsveç): otomatik / arşivlendi
+2026-10-10T11:59:39Z INFO K34 APA (Austria Presse Agentur): otomatik / arşivlendi
+2026-10-10T11:59:39Z INFO K35 PBS: manuel / bekliyor
+2026-10-10T11:59:57Z INFO K36 Agência Tatu: otomatik / arşivlendi
+2026-10-10T12:00:03Z INFO K37 States Newsroom: manuel / bekliyor
+2026-10-10T12:00:23Z INFO K38 Folha de S.Paulo: otomatik / arşivlendi
+2026-10-10T12:00:47Z INFO K39 ABC (Australian Broadcasting Corpor: otomatik / arşivlendi
+2026-10-10T12:01:05Z INFO K40 Maldives Independent: otomatik / arşivlendi
+2026-10-10T12:01:05Z INFO M02 artık çok parçalı; harfsiz adlı 5 önceki dosya eski_surum klasörüne taşındı.
+2026-10-10T12:01:21Z INFO M02a International Federation of Journal: otomatik / arşivlendi
+2026-10-10T12:01:30Z INFO M02b International Federation of Journal: otomatik / arşivlendi
+2026-10-10T12:01:45Z INFO M02c International Federation of Journal: otomatik / arşivlendi
+2026-10-10T12:02:07Z INFO M19a Reporters Sans Frontières (RSF) – P: otomatik / arşivlendi
+2026-10-10T12:02:22Z INFO M19b Reporters Sans Frontières (RSF) – P: otomatik / arşivlendi
+2026-10-10T12:02:33Z INFO M19c Reporters Sans Frontières (RSF) – P: otomatik / arşivlendi
+2026-10-10T12:02:46Z INFO M20 Reporters Sans Frontières (RSF) – P: otomatik / arşivlendi
+2026-10-10T12:02:59Z INFO M21 Reporters Sans Frontières (RSF) – P: otomatik / arşivlendi
+2026-10-10T12:03:11Z INFO M22a Albanian Media Council / Albanian M: otomatik / arşivlendi
+2026-10-10T12:03:24Z INFO M22b Albanian Media Council / Albanian M: otomatik / arşivlendi
+2026-10-10T12:03:40Z INFO M23a Finlandiya JSN: otomatik / arşivlendi [görsel kontrol]
+2026-10-10T12:03:50Z INFO M23b Finlandiya JSN: otomatik / arşivlendi [görsel kontrol]
+2026-10-10T12:04:11Z INFO M24 Radio Television Digital News Assoc: otomatik / arşivlendi
+2026-10-10T12:04:12Z INFO M25 Impress (İngiltere): manuel / bekliyor
+2026-10-10T12:04:26Z INFO M26 Kosova Basın Konseyi (Press Council: otomatik / arşivlendi
+2026-10-10T12:04:34Z INFO M27 Svenska Journalistförbundet (SJF): otomatik / arşivlendi
+2026-10-10T12:04:46Z INFO M28 POESY (Panhelenik Gazeteci Sendikal: otomatik / arşivlendi
+2026-10-10T12:05:03Z INFO M29a Raad voor de Journalistiek (Holland: otomatik / arşivlendi [görsel kontrol]
+2026-10-10T12:05:15Z INFO M29b Raad voor de Journalistiek (Holland: otomatik / arşivlendi
+2026-10-10T12:05:15Z INFO Özet: {'manuel/arşivlendi': 23, 'manuel/bekliyor': 3, 'otomatik/arşivlendi': 55}
+2026-10-10T12:05:15Z INFO Görsel kontrol gereken: 5
+2026-10-10T12:05:48Z INFO Formda 473 aday; karar: {'Hariç': 378, 'Dahil': 81, 'Belirsiz': 14}
+2026-10-10T12:05:49Z INFO 81 belge parçası (69 belge); 3 işlenecek, 78 zaten arşivde.
+2026-10-10T12:05:50Z INFO K35 PBS: manuel / bekliyor
+2026-10-10T12:05:55Z INFO K37 States Newsroom: manuel / bekliyor
+2026-10-10T12:05:55Z INFO M25 Impress (İngiltere): manuel / bekliyor
+2026-10-10T12:05:55Z INFO Özet: {'manuel/arşivlendi': 23, 'manuel/bekliyor': 3, 'otomatik/arşivlendi': 55}
+2026-10-10T12:05:55Z INFO Görsel kontrol gereken: 5
+2026-10-10T12:18:41Z INFO Formda 473 aday; karar: {'Hariç': 378, 'Dahil': 51, 'Ertelendi': 30, 'Belirsiz': 14}
+2026-10-10T12:18:41Z INFO Kararı artık 'Dahil' olmayan 27 belge parçasının 127 dosyası ertelenen klasörüne taşındı: K30a, K30b, K31a, K31b, K31c, K32, K33, K34, K36, K38, K39, K40, M19a, M19b, M19c, M20, M21, M22a, M22b, M23a, M23b, M24, M26, M27, M28, M29a, M29b
+2026-10-10T12:18:41Z INFO 51 belge parçası (47 belge); 0 işlenecek, 51 zaten arşivde.
+2026-10-10T12:18:42Z INFO Özet: {'manuel/arşivlendi': 23, 'otomatik/arşivlendi': 28}
+2026-10-10T12:18:42Z INFO Görsel kontrol gereken: 2
+2026-10-10T12:39:41Z INFO Formda 473 aday; karar: {'Hariç': 378, 'Dahil': 51, 'Ertelendi': 30, 'Belirsiz': 14}
+2026-10-10T12:39:41Z INFO 51 belge parçası (47 belge); 0 işlenecek, 51 zaten arşivde.
+2026-10-10T12:39:42Z INFO Özet: {'manuel/arşivlendi': 23, 'otomatik/arşivlendi': 28}
+2026-10-10T12:39:42Z INFO Görsel kontrol gereken: 2
+2026-10-10T12:40:12Z INFO Formda 473 aday; karar: {'Hariç': 378, 'Dahil': 51, 'Ertelendi': 30, 'Belirsiz': 14}
+2026-10-10T12:40:12Z INFO 51 belge parçası (47 belge); 0 işlenecek, 51 zaten arşivde.
+2026-10-10T12:40:13Z INFO Özet: {'manuel/arşivlendi': 23, 'otomatik/arşivlendi': 28}
+2026-10-10T12:40:13Z INFO Görsel kontrol gereken: 2

@@ -1,0 +1,65 @@
+# config/eleme_olcutleri.yaml
+# Kararı araştırmacı verir. Betikler bu dosyayı yalnızca form ve yönerge üretmek için okur.
+
+karar: [Dahil, Hariç, Belirsiz, Ertelendi]   # eleme formundaki "karar" açılır listesi
+# Ertelendi: dahil etme ölçütlerini karşılayan, ancak araştırmacı kararıyla bu aşamadaki örnekleme
+# alınmayan aday. Dışlama kodu verilmez; sınıflama alanları korunur.
+
+dahil_etme:            # hepsi sağlanmalı
+  D1: "Belge bir gazetecilik aktörü tarafından yayımlanmıştır (haber kuruluşu, meslek örgütü, sendika, basın/medya konseyi, gazetecilik savunuculuk örgütü)."
+  D2: "Belge kamuya açıktır (giriş, ödeme veya kurum içi erişim gerekmez)."
+  D3: "Belge YZ kullanımına ilişkin en az bir normatif hüküm içerir (yasak, izin, yükümlülük, tavsiye veya değer beyanı)."
+  D4: "Belgenin erişim tarihindeki en güncel sürümü kullanılır; erişim tarihi kaydedilir."
+
+dislama:               # ilk eşleşen kod kaydedilir
+  E1: "Gazetecilik aktörü değil (teknoloji şirketi, sektörler arası girişim, akademik merkez, danışmanlık)."
+  E2: "Hükümetlerarası kuruluş veya kamu otoritesi metni (Avrupa Konseyi, UNESCO, AGİT, bakanlıklar, düzenleyici kurumlar)."
+  E3: "YZ'ye ilişkin normatif hüküm yok (haber, tanıtım, ürün sayfası, betimleme; genel kodda YZ maddesi yok)."
+  E4: "Yayıncı/işveren birliği metni veya kurumlara örnek olarak sunulan politika şablonu."
+  E5: "Mükerrer veya eski sürüm (daha güncel sürüm mevcut ya da aynı metin başka adreste zaten dahil)."
+  E6: "Erişilemez (ödeme duvarı, giriş gerekli, sayfa kaldırılmış ve arşiv kopyası yok)."
+  E7: "Kamuya açık olmayan kurum içi belge."
+  E8: "Grup ataması yapılamayan hibrit metin (yayıncılar ile meslek örgütlerinin ortak metni)."
+
+eleme_sirasi:          # her aday bu sırayla kontrol edilir; ilk takılan koşulun kodu yazılır
+  - asama: "Erişim"
+    kodlar: [E6, E7]
+  - asama: "Aktör"
+    kodlar: [E1, E2, E4, E8]
+  - asama: "İçerik"
+    kodlar: [E3]
+  - asama: "Sürüm"
+    kodlar: [E5]
+  - asama: "Dahil"
+    sonra_doldurulacak: [grup, aktor_turu, ulke, bolge, belge_bicimi, belge_statusu, kodlama_kapsami]
+
+siniflama:
+  grup:
+    K: "Haber kuruluşunun kendi çalışanlarına yönelik kılavuzu (aktör türü 1–4)."
+    M: "Meslek topluluğuna ve kamuya seslenen düzenleme (aktör türü 5–7)."
+  aktor_turu: {1: Ajans, 2: Kamu yayıncısı, 3: Ticari yayın/grup, 4: Dijital yerli, 5: Meslek örgütü/sendika, 6: Basın/medya konseyi, 7: Savunuculuk/uluslararası gazetecilik örgütü}
+  bolge: {1: Kuzey Amerika, 2: Avrupa, 3: Türkiye, 4: Küresel Güney, 5: Uluslararası}
+  belge_bicimi: {1: "Bağımsız YZ kılavuzu", 2: "Genel kod içinde YZ bölümü"}
+  belge_statusu: {1: "Kabul edilmiş, doğrudan metin", 2: "Kabul edilmiş, aktarılmış/özet metin", 3: "Öneri/taslak", 4: "Kurum yayın organında makale", 5: "Rapor (öneri bölümü)"}
+
+sinir_durumlar:        # karar kuralları
+  - durum: "Aynı kurumun birbirini tamamlayan birden fazla YZ metni var (ör. şirket ilkeleri + haber odası sayfası)."
+    kural: "Tek belge kimliği altında birleştir; kodlama_kapsami alanına hangi metinlerin birleştirildiğini yaz."
+  - durum: "Politikanın kendisine erişilemiyor, ama kurumun yayın organındaki bir haber politikayı aktarıyor."
+    kural: "Dahil et; belge_statusu = 2; kapsam: yalnızca politikayı aktaran pasajlar ve yöneticilerin politika beyanları."
+  - durum: "Kurumun kendi yayın organında yöneticisi veya çalışanı tarafından yazılmış, normatif öneri içeren yazı."
+    kural: "Normatif hüküm varsa dahil et; belge_statusu = 4; kapsam: yalnızca normatif bölümler."
+  - durum: "Henüz kabul edilmemiş öneri veya taslak."
+    kural: "Metne erişilebiliyor ve YZ hükmü içeriyorsa dahil et; belge_statusu = 3. Metne erişilemiyorsa E6."
+  - durum: "Rapor içinde öneri veya yönerge bölümü."
+    kural: "Dahil et; belge_statusu = 5; kapsam: yalnızca öneri/yönerge bölümü."
+  - durum: "Genel kod YZ adını anmıyor, 'teknoloji' gibi genel bir terim kullanıyor."
+    kural: "Belgenin kendisi veya resmî açıklama notları hükmü açıkça YZ ile ilişkilendiriyorsa dahil et (gerekçeye kaynağı yaz); aksi hâlde E3."
+  - durum: "Basın konseyi ayrı bir YZ metni yayımlamamış, genel kurallarını YZ vakalarına kararlarla uyguluyor."
+    kural: "E3 (normatif YZ hükmü yok); gerekçeye 'vaka bazlı uygulama' yaz. Şikâyet kararları bu çalışmanın kapsamı dışında."
+  - durum: "Ürün tanıtım sayfası içinde etik taahhütler."
+    kural: "Normatif ifadeler varsa dahil et; kapsam: yalnızca normatif ifadeler ve SSS yanıtları; tanıtım cümleleri kodlanmaz."
+  - durum: "Belge Türkçe veya İngilizce dışında bir dilde."
+    kural: "Dil dışlama ölçütü değildir; dahil et ve dil alanını doldur."
+  - durum: "Kararsız kalındı."
+    kural: "karar = Belirsiz; gerekçeyi yaz; ikinci okumada kesinleştir. Betik hiçbir 'Belirsiz' kararı kendisi değiştirmez."

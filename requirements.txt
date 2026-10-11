@@ -1,0 +1,15 @@
+# Python 3.12 ile sınandı. Sürümler tekrar üretilebilirlik için sabittir.
+requests==2.34.2
+tenacity==9.2.1
+beautifulsoup4==4.15.0
+lxml==6.1.3
+ultimate-sitemap-parser==1.8.1
+trafilatura==2.3.1
+playwright==1.63.0
+pypdf==6.20.0
+pandas==3.0.6
+openpyxl==3.1.5
+pyyaml==6.0.3
+rapidfuzz==3.14.6
+pytest==9.1.1
+protego==0.7.0

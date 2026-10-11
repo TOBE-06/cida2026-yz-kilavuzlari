@@ -1,0 +1,127 @@
+# Hattın tüm parametreleri burada. Betiklerde sabit değer (hard-code) kullanılmaz.
+proje:
+  ad: "CIDA 2026 – YZ kılavuzlarında sınır çalışması"
+  arastirmaci: "Turancan Şirvanlı"
+  iletisim_eposta: "turancan.sirvanli@kocaeli.edu.tr"   # User-Agent'ta kullanılır; doğrulayın
+
+ag:
+  user_agent: "CIDA2026-AcademicResearch/1.0 (non-commercial research; contact: turancan.sirvanli@kocaeli.edu.tr)"
+  alan_basi_bekleme_sn: 5        # aynı alan adına iki istek arasında en az bekleme
+  zaman_asimi_sn: 30
+  yeniden_deneme: 3              # üstel geri çekilme ile
+  robots_txt_uy: true            # robots.txt izin vermiyorsa sayfa alınmaz, "manuel" işaretlenir
+  engel_durum_kodlari: [401, 403, 429]   # bu yanıtlar "engellendi" sayılır; yeniden denenmez, aşılmaz
+  bot_korumasi_isaretleri:       # sayfa metninde bunlar varsa bot koruması sayılır ve sayfa bırakılır
+    - "cf-chl"
+    - "just a moment..."
+    - "captcha"
+    - "are you a robot"
+    - "access denied"
+  bot_korumasi_max_uzunluk: 20000   # işaretler yalnızca bundan kısa (bayt) sayfalarda aranır
+
+evren:
+  tohum_dosyasi: "kurumlar_seed.csv"
+  dislanan_dosyasi: "dislanan_aktorler.csv"
+  ek_aktor_dosyasi: "evren_ek_aktorler.csv"      # literatür, dizin ve web aramasıyla bulunan aktörler (data/interim)
+  alan_adi_ek_dosyasi: "evren_alan_adi_ekleri.csv" # tohum ve yeniden değerlendirilen aktörler için alan adı ekleri
+  cikti_dosyasi: "evren.csv"
+  yeniden_degerlendir_oneki: "evet"   # dislanan_aktorler.csv içinde bu sözcükle başlayanlar evrene alınır
+  # tohum listesindeki aktör türü etiketlerinin eleme_olcutleri.yaml etiketlerine eşlemesi
+  tohum_aktor_turu_eslemesi:
+    "Ticari": "Ticari yayın/grup"
+    "Meslek örgütü / sendika": "Meslek örgütü/sendika"
+    "Basın konseyi": "Basın/medya konseyi"
+    "Savunuculuk / uluslararası": "Savunuculuk/uluslararası gazetecilik örgütü"
+
+kesif:
+  cikti_dosyasi: "adaylar.csv"
+  alan_durumu_dosyasi: "kesif_alan_durumu.csv"   # aktör başına ne yapıldığının kaydı (kaldığı yerden devam için)
+  arama_sonuclari_dosyasi: "arama_sonuclari.csv" # web arama aracıyla bulunan adresler (4. katman)
+  es_zamanli_aktor: 8            # aynı anda taranan aktör sayısı (aynı alan adına bekleme kuralı korunur)
+  max_derinlik: 2
+  alan_basi_max_sayfa: 40        # gezinmede alan adı başına en fazla indirilen sayfa (ilk değer 300; süre için düşürüldü)
+  sitemap_max_dosya: 25          # alan adı başına en fazla okunan site haritası dosyası
+  sitemap_max_url: 100000        # alan adı başına en fazla süzülen site haritası adresi
+  alan_basi_max_aday: 60         # alan adı başına en fazla aday; aşılırsa öncelik: tohum > arama > gezinme > sitemap
+  etik_kod_max_aday: 10          # M grubu aktörlerde genel etik kod adayı üst sınırı
+  # gezinmede öncelikle izlenecek kurumsal sayfa ipuçları (URL veya bağlantı metninde)
+  kurumsal_ipuclari: ["about", "hakkimizda", "kurumsal", "corporate", "company", "unternehmen", "impressum",
+                      "over-ons", "qui-sommes-nous", "quienes-somos", "sobre", "om-oss", "transparency",
+                      "transparenz", "trust", "standards", "policies", "editorial", "redaktion", "etik", "ethics"]
+  # M grubu aktörlerde tek başına adaylık için yeterli sayılan genel etik kod terimleri (bulunma_yolu = etik_kod)
+  etik_kod_terimleri: ["code of ethics", "code of conduct", "code of practice", "ethics code", "press code",
+                       "standards code", "editors' code", "pressekodex", "journalistenkodex", "kodex", "kodeks",
+                       "code de déontologie", "charte de déontologie", "código deontológico", "codice deontologico",
+                       "kodi i etikës", "etik ilke", "meslek ilkeleri", "bildirge", "journalistin ohjeet",
+                       "leidraad", "code voor de journalistiek"]
+  sitemap_kullan: true
+  min_yz_terimi: 1
+  min_belge_terimi: 1
+  kisa_terim_uzunlugu: 3         # bu uzunluk ve altındaki terimler (ai, ki, ia, yz, llm) tam sözcük olarak aranır
+  # anahtar_sozcukler.yaml içindeki url_kaliplari'ndan "belge terimi" sayılanlar; kalanı "YZ terimi" sayılır
+  belge_turu_url_kaliplari:
+    - "editorial-guidelines"
+    - "editorialguidelines"
+    - "ethics"
+    - "code-of-ethics"
+    - "journalistenkodex"
+    - "kodeks"
+
+puanlama:
+  cikti_dosyasi: "adaylar_puanli.csv"
+  form_dosyasi: "eleme_formu.xlsx"
+  metin_klasoru: "metinler"        # çıkarılan metinlerin ön belleği (data/interim altında; git'e eklenmez)
+  es_zamanli_alan: 8
+  # Ön puan yalnızca sıralama içindir, karar değildir. En yüksek değer 100.
+  yz_agirlik: 2                    # her YZ terimi geçişi için puan
+  yz_tavan: 20                     # en fazla sayılan YZ terimi geçişi
+  normatif_agirlik: 1              # her normatif işaret için puan
+  normatif_tavan: 40
+  baslik_eslesme_puani: 20         # başlıkta veya adreste hem YZ hem belge terimi varsa
+  benzerlik_esigi: 95              # aynı kurumun iki adayının metni bu oranın (0–100) üstünde benzerse işaretlenir
+  benzerlik_max_karakter: 20000    # benzerlik karşılaştırmasında metnin baştan kaç karakteri kullanılır
+  wayback_api: "https://archive.org/wayback/available?url="
+  # Kısmi eleme (araştırmacı kararı, 2026-10-10): yalnızca ön puanı bu değer ve üzerindeki adaylar
+  # araştırmacı tarafından değerlendirilir; formda bu adaylar en üstte sıralanır. Boş (null) ise tüm adaylar.
+  kismi_eleme_esigi: null   # 2026-10-10: araştırmacı 473 adayın tamamı için karar girdi; eşik kullanılmadı
+
+arsiv:
+  pdf_bicimi: "A4"
+  medya: "screen"                # print CSS içeriği gizleyebildiği için ekran görünümü
+  tam_sayfa_png: true
+  wayback_kontrol: true          # mevcut Wayback kopyasını kaydet
+  wayback_kaydet: false          # true yapılırsa Save Page Now isteği gönderilir (yavaş, sınırlı)
+  min_metin_uzunlugu: 400        # bunun altındaki çıkarımlar "gorsel_kontrol_gerekli" işaretlenir
+  sayfa_zaman_asimi_sn: 45       # tarayıcıda sayfanın yüklenmesi için beklenen en uzun süre
+  gorunum: {width: 1280, height: 1600}
+  manuel_klasoru: "manuel"       # araştırmacının elle kaydettiği PDF'ler (archive/manuel)
+  beklenen_dosyasi: "BEKLENEN_DOSYALAR.md"
+  ertelenen_klasoru: "ertelenen"     # kararı artık "Dahil" olmayan belgelerin arşiv dosyaları (silinmez, buraya taşınır)
+  eski_surum_klasoru: "eski_surum"   # çok parçalıya dönüşen belgelerin önceki tek parça dosyaları (silinmez, buraya taşınır)
+  durum_dosyasi: "arsiv_durumu.csv"          # data/interim altında; her belge parçasının arşiv durumu
+  kimlik_dosyasi: "belge_kimlikleri.csv"     # data/interim altında; yeni belgelere verilen kimlikler (kalıcı)
+  # Otomatik arşivlenemeyen belgelerde araştırmacının önceden elle kaydettiği PDF (data/mevcut_arsiv)
+  # "manuel" kopya olarak kullanılsın mı? Erişim tarihi dosya adındaki tarihten alınır.
+  mevcut_arsivi_manuel_say: true
+  # Çerez bildiriminde yalnızca bu tür "reddet / yalnızca gerekli" düğmeleri tıklanır (tam eşleşme, büyük-küçük harf duyarsız)
+  cerez_red_metinleri: ["reject all", "reject", "decline", "decline all", "only necessary", "necessary only",
+                        "use necessary cookies only", "continue without accepting", "alle ablehnen", "ablehnen",
+                        "nur notwendige", "nur erforderliche", "tout refuser", "refuser", "continuer sans accepter",
+                        "rechazar", "rechazar todo", "rejeitar", "rejeitar tudo", "rifiuta", "rifiuta tutto",
+                        "weigeren", "alles weigeren", "avvisa", "avvisa alla", "neka", "afvis", "afvis alle",
+                        "avvis alle", "reddet", "tümünü reddet", "yalnızca gerekli", "sadece gerekli"]
+
+uzlastirma:
+  cikti_dosyasi: "uzlastirma.csv"   # reports altında
+  benzerlik_esigi: 85               # önceki PDF metni ile yeni arşiv metni bu oranın (0–100) altındaysa surum_degisikligi = evet
+  max_karakter: 60000               # karşılaştırmada her metnin baştan kaç karakteri kullanılır
+
+yollar:
+  seed: "data/seed"
+  ara: "data/interim"
+  eleme: "data/eleme"
+  arsiv: "archive"
+  envanter: "data/envanter"
+  rapor: "reports"
+  log: "logs"
+  mevcut_arsiv: "data/mevcut_arsiv"   # elle toplanmış 47 belge (YALNIZCA OKUNUR)

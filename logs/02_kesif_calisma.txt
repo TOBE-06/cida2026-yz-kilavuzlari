@@ -1,0 +1,184 @@
+2026-10-09T15:32:36Z INFO Evrende 106 aktör; 102 taranacak, 4 atlanıyor (zaten taranmış).
+2026-10-09T15:32:46Z INFO K02 Agence France-Presse (AFP): 0 aday (afp.com: engellendi)
+2026-10-09T15:32:57Z INFO K01 Associated Press (AP): 1 aday (ap.org: engellendi)
+2026-10-09T15:34:01Z INFO K08 CBC/Radio-Canada: 1 aday (cbc.ca: engellendi)
+2026-10-09T15:34:13Z INFO K10 RTVE: 0 aday (rtveia.es: engellendi)
+2026-10-09T15:34:13Z INFO K09 NPR: 1 aday (npr.org: engellendi)
+2026-10-09T15:36:04Z INFO K06 ANP: 0 aday (anp.nl: tamam)
+2026-10-09T15:36:05Z INFO K16 Mediahuis: 0 aday (mediahuis.com: engellendi)
+2026-10-09T15:36:17Z INFO K11 Al Jazeera: 1 aday (institute.aljazeera.net: tamam)
+2026-10-09T15:36:38Z INFO K12 The Guardian: 2 aday (theguardian.com: tamam)
+2026-10-09T15:37:32Z INFO K13 The New York Times: 1 aday (nytco.com: tamam)
+2026-10-09T15:37:42Z INFO K20 Groupe Les Echos-Le Parisien: 0 aday (leparisien.fr: engellendi; lesechos.fr: engellendi)
+2026-10-09T15:37:43Z INFO K21 Estadão (Grupo Estado): 0 aday (estadao.com.br: engellendi)
+2026-10-09T15:37:43Z INFO K22 Nation Media Group (NMG): 2 aday (nation.africa: engellendi)
+2026-10-09T15:38:01Z INFO K03 Reuters / Thomson Reuters: 16 aday (thomsonreuters.com: tamam; reutersagency.com: tamam)
+2026-10-09T15:38:59Z INFO K14 The Globe and Mail: 40 aday (theglobeandmail.com: tamam)
+2026-10-09T15:39:23Z INFO K15 USA Today / Gannett: 8 aday (usatoday.com: tamam)
+2026-10-09T15:39:35Z INFO K05 dpa (Deutsche Presse-Agentur): 4 aday (dpa.com: tamam)
+2026-10-09T15:41:16Z INFO K17 Aftonbladet: 1 aday (aftonbladet.se: tamam)
+2026-10-09T15:41:18Z INFO K18 Verdens Gang (VG): 1 aday (vg.no: tamam)
+2026-10-09T15:41:18Z INFO K23 Mwananchi Communications (MCL): 1 aday (thecitizen.co.tz: tamam)
+2026-10-09T15:41:29Z INFO K29 Todo Jujuy: 1 aday (todojujuy.com: engellendi)
+/Users/turancansirvanli/Desktop/Claude Kaynaklar/cida2026-yz-kilavuzlari/hat/metin.py:132: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  corba = BeautifulSoup(html, "lxml")
+/Users/turancansirvanli/Desktop/Claude Kaynaklar/cida2026-yz-kilavuzlari/hat/kesif.py:69: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  corba = BeautifulSoup(html, "lxml")
+2026-10-09T15:43:26Z INFO K27 Núcleo Jornalismo: 8 aday (nucleo.jor.br: tamam)
+2026-10-09T15:43:32Z INFO K24 Wired: 12 aday (wired.com: tamam)
+2026-10-09T15:44:12Z INFO M03 DJV (Deutscher Journalisten-Verband): 1 aday (djv.de: hata)
+2026-10-09T15:44:35Z INFO K25 Business Insider: 60 aday (businessinsider.com: tamam)
+2026-10-09T15:44:49Z INFO K26 Heidi.news: 3 aday (heidi.news: tamam)
+2026-10-09T15:46:25Z INFO M02 International Federation of Journalists (IFJ): 21 aday (ifj.org: tamam)
+2026-10-09T15:46:48Z INFO K28 Hong Kong Free Press (HKFP): 9 aday (hongkongfp.com: tamam)
+2026-10-09T15:46:49Z INFO M01 Reporters Sans Frontières (RSF) – Paris Şartı: 27 aday (rsf.org: tamam)
+2026-10-09T15:46:49Z INFO M11 Türkiye Gazeteciler Cemiyeti (TGC): 1 aday (tgc.org.tr: engellendi)
+2026-10-09T15:46:58Z INFO K19 Atresmedia: 0 aday (atresmediacorporacion.com: tamam)
+2026-10-09T15:47:30Z INFO M04 AJP (Association des journalistes professionnels): 3 aday (ajp.be: tamam)
+2026-10-09T15:47:32Z INFO M05 impressum – Les journalistes suisses: 0 aday (impressum.ch: tamam)
+2026-10-09T15:47:32Z INFO M15 Press Council of Serbia: 1 aday (savetzastampu.rs: engellendi)
+2026-10-09T15:48:10Z INFO M06 Raad voor de Journalistiek (Flandre): 3 aday (rvdj.be: tamam)
+2026-10-09T15:48:10Z INFO M17 Media Council for Self-Regulation (Karadağ): 0 aday (medijskisavjet.me: engellendi)
+2026-10-09T15:48:10Z INFO M18 Society of Professional Journalists (SPJ): 1 aday (spj.org: engellendi)
+2026-10-09T15:48:35Z INFO M07 CDJM (Fransa): 3 aday (cdjm.org: tamam)
+2026-10-09T15:49:47Z INFO Y01 Deutscher Presserat: 0 aday (presserat.de: engellendi)
+2026-10-09T15:50:41Z INFO M12 Türkiye Basın Konseyi: 10 aday (basinkonseyi.org.tr: tamam)
+2026-10-09T15:50:50Z INFO M13 GDA ve Türkiye basın/medya konseyleri – Ohri Bildirgesi: 0 aday (medijskisavjet.me: engellendi; seecheck.org: tamam)
+2026-10-09T15:50:53Z INFO M10 Press Council of South Africa: 8 aday (presscouncilsa.org.za: tamam)
+2026-10-09T15:51:14Z INFO M16 Albanian Media Council / Albanian Media Institute: 8 aday (institutemedia.org: tamam)
+2026-10-09T15:52:00Z INFO Y02 Finlandiya JSN: 10 aday (jsn.fi: tamam)
+2026-10-09T15:52:32Z INFO M14 Ethical Journalism Network (EJN): 12 aday (ethicaljournalismnetwork.org: tamam)
+2026-10-09T15:53:59Z INFO Y03 Bosna-Hersek Basın Konseyi: 11 aday (vzs.ba: tamam)
+2026-10-09T15:54:04Z INFO A002 T-Online: 1 aday (t-online.de: tamam)
+2026-10-09T15:54:44Z INFO A003 Web.de / GMX / 1&1: 0 aday (web.de: tamam)
+2026-10-09T15:54:44Z INFO A009 Ippen: 0 aday ()
+2026-10-09T15:54:48Z INFO A004 Frankfurter Allgemeine Zeitung (FAZ): 0 aday (faz.net: tamam)
+2026-10-09T15:54:53Z INFO A011 De Volkskrant: 0 aday (volkskrant.nl: engellendi)
+2026-10-09T15:54:56Z INFO M08 Pressenævnet (Danimarka Basın Konseyi): 1 aday (pressenaevnet.dk: tamam)
+2026-10-09T15:54:59Z INFO A012 DPG Media: 0 aday (dpgmediagroup.com: engellendi)
+2026-10-09T15:56:03Z INFO A006 Süddeutsche Zeitung: 1 aday (sueddeutsche.de: tamam)
+2026-10-09T15:56:14Z INFO A001 Bayerischer Rundfunk (BR): 3 aday (br.de: tamam)
+2026-10-09T15:56:20Z INFO A015 Dagens Næringsliv: 0 aday (dn.no: hata)
+2026-10-09T15:57:26Z INFO A005 Rheinische Post: 1 aday (rp-online.de: tamam)
+2026-10-09T15:58:19Z INFO A010 The Quint: 0 aday (thequint.com: tamam)
+/Users/turancansirvanli/Desktop/Claude Kaynaklar/cida2026-yz-kilavuzlari/hat/metin.py:132: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  corba = BeautifulSoup(html, "lxml")
+/Users/turancansirvanli/Desktop/Claude Kaynaklar/cida2026-yz-kilavuzlari/hat/kesif.py:69: XMLParsedAsHTMLWarning: It looks like you're using an HTML parser to parse an XML document.
+
+Assuming this really is an XML document, what you're doing might work, but you should know that using an XML parser will be more reliable. To parse this document as XML, make sure you have the Python package 'lxml' installed, and pass the keyword argument `features="xml"` into the BeautifulSoup constructor.
+
+If you want or need to use an HTML parser on this document, you can make this warning go away by filtering it. To do that, run this code before calling the BeautifulSoup constructor:
+
+    from bs4 import XMLParsedAsHTMLWarning
+    import warnings
+
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+
+  corba = BeautifulSoup(html, "lxml")
+2026-10-09T15:59:29Z INFO A008 Der Spiegel: 11 aday (spiegel.de: tamam)
+2026-10-09T15:59:31Z INFO A007 Handelsblatt: 2 aday (handelsblatt.com: tamam)
+2026-10-09T16:00:17Z INFO A013 NPO: 4 aday (npo.nl: tamam)
+2026-10-09T16:00:52Z INFO A018 Sveriges Television (SVT): 0 aday (svt.se: tamam)
+2026-10-09T16:01:37Z INFO A017 NRK: 1 aday (nrk.no: tamam)
+2026-10-09T16:02:51Z INFO A014 TV 2 (Norveç): 2 aday (tv2.no: tamam)
+2026-10-09T16:03:33Z INFO A022 Bonnier: 0 aday (bonniernews.se: tamam)
+2026-10-09T16:03:45Z INFO A019 Svenska Dagbladet: 0 aday (svd.se: tamam)
+2026-10-09T16:03:55Z INFO A027 ITN: 0 aday (itn.co.uk: engellendi)
+2026-10-09T16:04:00Z INFO A028 Financial Times: 0 aday (ft.com: engellendi)
+2026-10-09T16:04:02Z INFO A016 Schibsted: 1 aday (schibsted.com: tamam)
+2026-10-09T16:04:06Z INFO A029 The Atlantic: 0 aday (theatlantic.com: engellendi)
+2026-10-09T16:04:08Z INFO A023 TT Nyhetsbyrån: 0 aday (tt.se: tamam)
+2026-10-09T16:04:34Z INFO A020 Dagens Nyheter: 6 aday (dn.se: tamam)
+2026-10-09T16:04:38Z INFO A024 Tamedia: 0 aday (tamedia.ch: tamam)
+2026-10-09T16:07:12Z INFO A025 Ringier: 3 aday (ringier.com: tamam)
+2026-10-09T16:07:29Z INFO A030 Radio Television Digital News Association (RTDNA): 2 aday (rtdna.org: tamam)
+2026-10-09T16:07:48Z INFO A031 RTBF: 1 aday (rtbf.be: tamam)
+2026-10-09T16:07:54Z INFO A034 Yle: 0 aday (yle.fi: tamam)
+2026-10-09T16:08:34Z INFO A033 Suomen Tietotoimisto (STT): 0 aday (stt.fi: tamam)
+2026-10-09T16:08:55Z INFO A026 SRF (Schweizer Radio und Fernsehen): 0 aday (srf.ch: tamam)
+2026-10-09T16:09:34Z INFO A032 Helsingin Sanomat: 0 aday (hs.fi: tamam)
+2026-10-09T16:10:02Z INFO A021 Journalisten (İsveç): 8 aday (journalisten.se: tamam)
+2026-10-09T16:10:24Z INFO A035 Czech News Agency (ČTK): 0 aday (ctk.cz: tamam)
+2026-10-09T16:11:10Z INFO A036 APA (Austria Presse Agentur): 1 aday (apa.at: tamam)
+2026-10-09T16:11:10Z INFO A045 PBS: 1 aday (pbs.org: engellendi)
+2026-10-09T16:12:35Z INFO A039 Agência Tatu: 2 aday (agenciatatu.com.br: tamam)
+2026-10-09T16:12:36Z INFO A041 Stuff: 0 aday (stuff.co.nz: tamam)
+2026-10-09T16:12:41Z INFO A048 States Newsroom: 1 aday (newjerseymonitor.com: engellendi)
+2026-10-09T16:13:14Z INFO A037 Deutsche Welle (DW): 4 aday (dw.com: tamam)
+2026-10-09T16:13:14Z INFO A050 Kıbrıs Medya Etik Komitesi (CMEC): 0 aday ()
+2026-10-09T16:13:20Z INFO A038 CNET: 33 aday (cnet.com: tamam)
+2026-10-09T16:14:29Z INFO A046 Folha de S.Paulo: 10 aday (folha.uol.com.br: tamam)
+2026-10-09T16:15:02Z INFO A040 Rappler: 2 aday (rappler.com: tamam)
+2026-10-09T16:15:03Z INFO A054 Impress (İngiltere): 1 aday (impressorg.com: engellendi)
+2026-10-09T16:15:28Z INFO A043 RTÉ: 14 aday (rte.ie: tamam)
+2026-10-09T16:16:08Z INFO A049 Kosova Basın Konseyi (Press Council of Kosovo): 1 aday (presscouncil-ks.org: tamam)
+2026-10-09T16:16:47Z INFO A052 Svenska Journalistförbundet (SJF): 4 aday (sjf.se: tamam)
+2026-10-09T16:17:02Z INFO A051 Dewan Pers (Endonezya Basın Konseyi): 0 aday (dewanpers.or.id: tamam)
+2026-10-09T16:17:07Z INFO A044 ABC (Australian Broadcasting Corporation): 5 aday (abc.net.au: tamam)
+2026-10-09T16:18:01Z INFO A047 Maldives Independent: 1 aday (maldivesindependent.com: tamam)
+2026-10-09T16:18:34Z INFO A053 POESY (Panhelenik Gazeteci Sendikaları Federasyonu): 2 aday (poesy.gr: tamam)
+2026-10-09T16:19:03Z INFO A056 International Center for Journalists (ICFJ): 2 aday (icfj.org: tamam)
+2026-10-09T16:19:09Z INFO A055 Raad voor de Journalistiek (Hollanda): 10 aday (rvdj.nl: tamam)
+2026-10-09T16:19:09Z INFO Toplam aday: 460 (106 aktör tarandı)
+2026-10-09T16:19:09Z INFO   bulunma yolu sitemap   202
+2026-10-09T16:19:09Z INFO   bulunma yolu gezinme   132
+2026-10-09T16:19:09Z INFO   bulunma yolu etik_kod  81
+2026-10-09T16:19:09Z INFO   bulunma yolu tohum     32
+2026-10-09T16:19:09Z INFO   bulunma yolu arama     13
+2026-10-09T16:19:09Z INFO Ana sayfası alınamayan veya engellenen aktör: 26
+2026-10-09T16:19:09Z INFO   K02 Agence France-Presse (AFP) – afp.com: engellendi
+2026-10-09T16:19:09Z INFO   K01 Associated Press (AP) – ap.org: engellendi
+2026-10-09T16:19:09Z INFO   K08 CBC/Radio-Canada – cbc.ca: engellendi
+2026-10-09T16:19:09Z INFO   K10 RTVE – rtveia.es: engellendi
+2026-10-09T16:19:09Z INFO   K09 NPR – npr.org: engellendi
+2026-10-09T16:19:09Z INFO   K16 Mediahuis – mediahuis.com: engellendi
+2026-10-09T16:19:09Z INFO   K20 Groupe Les Echos-Le Parisien – leparisien.fr: engellendi; lesechos.fr: engellendi
+2026-10-09T16:19:09Z INFO   K21 Estadão (Grupo Estado) – estadao.com.br: engellendi
+2026-10-09T16:19:09Z INFO   K22 Nation Media Group (NMG) – nation.africa: engellendi
+2026-10-09T16:19:09Z INFO   K29 Todo Jujuy – todojujuy.com: engellendi
+2026-10-09T16:19:09Z INFO   M03 DJV (Deutscher Journalisten-Verband) – djv.de: hata
+2026-10-09T16:19:09Z INFO   M11 Türkiye Gazeteciler Cemiyeti (TGC) – tgc.org.tr: engellendi
+2026-10-09T16:19:09Z INFO   M15 Press Council of Serbia – savetzastampu.rs: engellendi
+2026-10-09T16:19:09Z INFO   M17 Media Council for Self-Regulation (Karadağ) – medijskisavjet.me: engellendi
+2026-10-09T16:19:09Z INFO   M18 Society of Professional Journalists (SPJ) – spj.org: engellendi
+2026-10-09T16:19:09Z INFO   Y01 Deutscher Presserat – presserat.de: engellendi
+2026-10-09T16:19:09Z INFO   M13 GDA ve Türkiye basın/medya konseyleri – Ohri Bildirgesi – medijskisavjet.me: engellendi; seecheck.org: tamam
+2026-10-09T16:19:09Z INFO   A011 De Volkskrant – volkskrant.nl: engellendi
+2026-10-09T16:19:09Z INFO   A012 DPG Media – dpgmediagroup.com: engellendi
+2026-10-09T16:19:09Z INFO   A015 Dagens Næringsliv – dn.no: hata
+2026-10-09T16:19:09Z INFO   A027 ITN – itn.co.uk: engellendi
+2026-10-09T16:19:09Z INFO   A028 Financial Times – ft.com: engellendi
+2026-10-09T16:19:09Z INFO   A029 The Atlantic – theatlantic.com: engellendi
+2026-10-09T16:19:09Z INFO   A045 PBS – pbs.org: engellendi
+2026-10-09T16:19:09Z INFO   A048 States Newsroom – newjerseymonitor.com: engellendi
+2026-10-09T16:19:09Z INFO   A054 Impress (İngiltere) – impressorg.com: engellendi
