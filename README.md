@@ -1,6 +1,7 @@
 # CIDA 2026 – YZ Kılavuzları Veri Toplama ve Arşivleme Hattı
 
 **"Sorumluluk Kimde?": Yapay Zekâ Kılavuzlarında Gazeteciliğin Etik Sınırlarının İnşası**
+
 Arş. Gör. Dr. Turancan Şirvanlı · Kocaeli Üniversitesi İletişim Fakültesi
 
 ## Proje hedefi
